@@ -1,0 +1,19 @@
+body{padding:5px;}
+.application
+  {border: 5px solid navy;padding:5px;display:inline-block;}
+
+.offer
+  {border: 3px solid red; padding:5px; display:inline-block;}
+
+.commando
+  {border: 5px solid green; display:inline-block; padding:10px;}
+  
+.content
+  {border: 3px solid blue;padding:5px;}
+
+.datatable
+  {border: 3px solid gray; padding:5px;}
+
+.wireframe-description {
+    font-family: "Verdana";
+}
