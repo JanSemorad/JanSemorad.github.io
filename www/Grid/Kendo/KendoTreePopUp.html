@@ -1,0 +1,68 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>TreeView / Node editing</title>
+
+    <link rel="stylesheet" href="http://cdn.kendostatic.com/2014.1.416/styles/kendo.common.min.css">
+    <link rel="stylesheet" href="http://cdn.kendostatic.com/2014.1.416/styles/kendo.silver.min.css">
+
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="http://cdn.kendostatic.com/2014.1.416/js/kendo.web.min.js"></script>
+    
+    <style> body { font-size: 14px; font-family: Arial,sans-serif; } </style>
+  </head>
+  <body>
+    <div id="treeview"></div>
+    
+    <script id="editTemplate" type="text/x-kendo-template">
+    	<label>Text: <input class="k-textbox" value="#= node.text #" /></label>
+    	<button class="k-button k-primary">Save</button>
+    </script>
+    
+    <script>
+      var editTemplate = kendo.template($("#editTemplate").html());
+      
+      // initialize treeview
+      $("#treeview")
+        .kendoTreeView({
+          dataSource: [
+            { text: "foo", items: [
+              { text: "bar" },
+              { text: "baz" }
+            ] }
+          ],
+          // add template with edit button
+          template: "#: item.text # <button><span class='k-icon k-edit' /></button>"
+        })
+      	// bind buttons
+        .on("click", "button", function(e) {
+          e.preventDefault();
+          var node = $("#treeview").getKendoTreeView().dataItem(e.currentTarget);
+
+          // create & open window
+          $("<div />")
+          	.html(editTemplate({ node: node }))
+          	.appendTo("body")
+            .kendoWindow({
+              modal: true,
+              visible: false,
+              deactivate: function() {
+                this.destroy();
+              }
+            })
+          	// bind window button
+            .on("click", ".k-primary", function(e) {
+              e.preventDefault();
+              
+              var dialog = $(e.currentTarget).closest("[data-role=window]").getKendoWindow();
+              var textbox = dialog.element.find(".k-textbox");
+              
+              node.set("text", textbox.val());
+              
+              dialog.close();
+            })
+          	.getKendoWindow().center().open();
+        });
+    </script>
+  </body>
+</html>
