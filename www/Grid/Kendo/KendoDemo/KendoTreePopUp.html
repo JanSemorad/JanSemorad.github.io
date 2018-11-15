@@ -1,19 +1,18 @@
-
-<!-- saved from url=(0128)file:///F:/xxxxxxxxxxxxxxxxxxxxxxxxx%20smazat/xxxxx%20DUPLICIT/AppServerTest/AppServerTest/Develop/SAP/Kendo/KendoTreePopUp.html -->
-<html class="k-webkit k-webkit70"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
+<html>
+  <head>
+    <meta charset="utf-8">
     <title>TreeView / Node editing</title>
 
-    <link rel="stylesheet" href="./KendoTreePopUp_files/kendo.common.min.css">
-    <link rel="stylesheet" href="./KendoTreePopUp_files/kendo.silver.min.css">
+    <link rel="stylesheet" href="http://cdn.kendostatic.com/2014.1.416/styles/kendo.common.min.css">
+    <link rel="stylesheet" href="http://cdn.kendostatic.com/2014.1.416/styles/kendo.silver.min.css">
 
-    <script src="./KendoTreePopUp_files/jquery-1.9.1.min.js.download"></script>
-    <script src="./KendoTreePopUp_files/kendo.web.min.js.download"></script>
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="http://cdn.kendostatic.com/2014.1.416/js/kendo.web.min.js"></script>
     
     <style> body { font-size: 14px; font-family: Arial,sans-serif; } </style>
   </head>
   <body>
-    <div id="treeview" data-role="treeview" class="k-widget k-treeview" tabindex="0" role="tree"><ul class="k-group k-treeview-lines" role="group"><li role="treeitem" class="k-item k-first k-last" data-uid="f327ced3-e5c8-48a6-bdba-bd2a479c06c6"><div class="k-top k-bot"><span class="k-icon k-plus" role="presentation"></span><span class="k-in">foo <button><span class="k-icon k-edit"></span></button></span></div><ul class="k-group" style="display:none" role="group"><li role="treeitem" class="k-item" data-uid="f92152e0-e818-4766-937a-4d9b91281c97"><div class="k-top"><span class="k-in">bar <button><span class="k-icon k-edit"></span></button></span></div></li><li role="treeitem" class="k-item k-last" data-uid="28190cfe-5ec0-4c38-b848-6d13b6bf4c8a"><div class="k-bot"><span class="k-in">baz <button><span class="k-icon k-edit"></span></button></span></div></li></ul></li></ul></div>
+    <div id="treeview"></div>
     
     <script id="editTemplate" type="text/x-kendo-template">
     	<label>Text: <input class="k-textbox" value="#= node.text #" /></label>
@@ -65,5 +64,5 @@
           	.getKendoWindow().center().open();
         });
     </script>
-  
-</body></html>
+  </body>
+</html>
