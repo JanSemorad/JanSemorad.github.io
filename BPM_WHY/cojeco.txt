@@ -1,3 +1,4 @@
+https://jansemorad.github.io/BPM_WHY/DSL/Design_of_Software_tests.pdf
 https://jansemorad.github.io/BPM_WHY/ilustrations/spa_bpm_architecture.jpg
 https://jansemorad.github.io/BPM_WHY/analytical/genesis/Genesis.pdf
 https://jansemorad.github.io/BPM_WHY/BPM_WHY_20180818_report_final_.html
@@ -9,5 +10,6 @@ https://jansemorad.github.io/BPM_WHY/BPM_WHY_20180818_report_final_.html
 https://jansemorad.github.io/www/Grid/SAP/TreeTable/index.html
 
 https://jansemorad.github.io/www/Grid/Kendo/KendoDemo/KendoTreePopUp.html
+
 
 
