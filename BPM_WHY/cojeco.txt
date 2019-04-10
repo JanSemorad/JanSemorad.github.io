@@ -1,6 +1,10 @@
+PIZZA  http://semorad.com/janosemo_work/public/BPMNDemo_pizza.png        bpmReloaded005
+DSLBL  http://semorad.com/janosemo_work/public/DSL_BL/DSL_BL.png         bpmReloaded004
+
 http://semorad.com/janosemo_work/public/testik.png   bpmReloaded001
 https://jansemorad.github.io/BPM_WHY/ilustrations/bpmReloaded002.png
 https://jansemorad.github.io/BPM_WHY/ilustrations/bpmReloaded003.png
+
 https://jansemorad.github.io/BPM_WHY/DSL/Design_of_Software_tests.pdf
 https://jansemorad.github.io/BPM_WHY/ilustrations/Architecture_BPM_NGRX_ENTERPRISE_PATTERNS.pdf
 https://jansemorad.github.io/BPM_WHY/ilustrations/spa_bpm_architecture.jpg
