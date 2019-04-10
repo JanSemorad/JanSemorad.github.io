@@ -1,3 +1,5 @@
+BPM RELOADED   https://tinyurl.com/bpmReloaded     aspone                MyWWWbpm.html
+
 TESTIK http://semorad.com/janosemo_work/public/testik.png                bpmReloaded006      humus code   vs   models  
 PIZZA  http://semorad.com/janosemo_work/public/BPMNDemo_pizza.png        bpmReloaded005
 DSLBL  http://semorad.com/janosemo_work/public/DSL_BL/DSL_BL.png         bpmReloaded004
