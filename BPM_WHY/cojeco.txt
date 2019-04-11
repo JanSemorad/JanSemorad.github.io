@@ -1,3 +1,5 @@
+AWAIT   https://jansemorad.github.io/www/Pictures/bpm_async_await_promise_callback_javascript_hell.png     bpmReloaded007
+
 BPM RELOADED   https://tinyurl.com/bpmReloaded     aspone                MyWWWbpm.html
 
 TESTIK http://semorad.com/janosemo_work/public/testik.png                bpmReloaded006      humus code   vs   models  
