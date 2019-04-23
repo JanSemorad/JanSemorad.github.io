@@ -1,3 +1,4 @@
+bpmApp     https://jansemorad.github.io/www/Pictures/bpmApp.png             bpmReloaded009
 AWAITex https://jansemorad.github.io/www/Pictures/bpm_async_await_promise_callback_javascript_hell_bpmn_Explained.png     bpmReloaded008
 AWAIT   https://jansemorad.github.io/www/Pictures/bpm_async_await_promise_callback_javascript_hell.png     bpmReloaded007
 
