@@ -1,3 +1,4 @@
+software tests    https://jansemorad.github.io/www/Pictures/software_tests_bpmReloaded011.png    bpmReloaded011
 BpmWhyAsSolution    https://jansemorad.github.io/www/Pictures/BpmWhyAsSolution.png    bpmReloaded010
 bpmApp     https://jansemorad.github.io/www/Pictures/bpmApp.png             bpmReloaded009
 AWAITex https://jansemorad.github.io/www/Pictures/bpm_async_await_promise_callback_javascript_hell_bpmn_Explained.png     bpmReloaded008
