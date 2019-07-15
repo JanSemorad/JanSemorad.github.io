@@ -1,3 +1,4 @@
+Bpm2Rx     https://jansemorad.github.io/www/Pictures/Bpm2Rx.png          bpmReloaded012
 bpm why ROOT    https://jansemorad.github.io/BPM_WHY/bpmwhy.html     https://tinyurl.com/bpm-way
 software tests    https://jansemorad.github.io/www/Pictures/software_tests_bpmReloaded011.png    bpmReloaded011
 BpmWhyAsSolution    https://jansemorad.github.io/www/Pictures/BpmWhyAsSolution.png    bpmReloaded010
