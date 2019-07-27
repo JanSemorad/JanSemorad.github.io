@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html ng-app="app">
+  <head>
+    <script data-require="jquery@1.10.1" data-semver="1.10.1" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script data-require="angular.js@1.1.5" data-semver="1.1.5" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+  </head>
+  <body ng-controller="ctrl">
+  <h3>final version, updated 2014-05-07 15:49</h3>
+    <p>Hello {{helloMessage}}! <a href="http://msdn.microsoft.com/en-US/us-us/library/ee372286(v=vs.110).aspx"> TimeSpan docs</a></p> <br />
+    
+    
+    
+    
+    <time-span value=timeSpan to-null-message="click to forever"  to-not-null-message="click to set finite value" null-message="forever" ></time-span>  <!--  <<< timeSpan is here -->
+    
+    
+    
+    
+    <p> result string value :&nbsp;&nbsp; "{{timeSpan}}" <input type=text ng-model=timeSpan style="width: 80px;text-align: center;" />
+    <br /><br /><br />write new value: <input type=text ng-model=timeSpanUpdate style="width: 80px;text-align: center;" />
+                           <button ng-click="(timeSpan=timeSpanUpdate)">set new value</button>
+    <br /><br /><p><a target='newWindow' href="https://www.flickr.com/photos/115652928@N03/13519931515/"> schema </a></p>
+  <script>document.write("<a target='newWindow2' href='" + document.location + "' /></a> ")</script>
+  </body>
+</html>
