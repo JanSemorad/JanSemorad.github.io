@@ -1,27 +1,82 @@
 <!DOCTYPE html>
 <html ng-app="app">
   <head>
+  <style>
+     .show{
+	  background: #FFFFCC;
+	 
+  }
+  	.timespan{
+	border: thick #00FF00 solid;
+	display: inline-block;
+}
+
+  </style>
     <script data-require="jquery@1.10.1" data-semver="1.10.1" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script data-require="angular.js@1.1.5" data-semver="1.1.5" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.js"></script>
     <link rel="stylesheet" href="style.css" />
     <script src="script.js"></script>
   </head>
   <body ng-controller="ctrl">
-  <h3>final version, updated 2014-05-07 15:49</h3>
+  <h3>&nbsp;Vidìli jste nìkde na webu èasový úsek? </h3>
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ve slovníku nalezneme
+  <a href="https://www.merriam-webster.com/dictionary/time%20span" target="detail">tuto 
+  definici...</a></h3>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  Pøíkladem je tøeba
+  <a href="http://www.businessdictionary.com/definition/warranty-period.html">
+  záruèní lhùta</a>. </p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  Ale je spousta dalších. tøeba &quot;až se to zaènì vaøit. 10 minut míchejte&quot; </p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  nebo vyèkejte 20 minut po setmìní a pak jednejte atd.</p>
+  <p>&nbsp;</p>
+  <p>&quot;Èesky&quot; tomu mùžeme øíkat èasový interval. My vìtšinou vnímáme èas jako 
+  nìco samostatného - ve skuteènosti je náš bìžný èas také intervalem - <strong>
+  <em>tøeba</em></strong> od narození Krista do daného okamžiku... Takže to, 
+  èemu øíkáme èasový interval(=timespan), je ve skuteènosti stejnì jen rozdíl 
+  èasových intervalù.</p>
+  <p>&nbsp;</p>
+  <p>Jak už bylo uvedeno v úvodu, v praktickém životì je takových intervalù 
+  hafo. Napøíklad v roce 2013 jsem dìlal na apce, kde jich bylo desítky.</p>
+  <p>To už si chcete vìci zjednodušit - takže kolik takových (reusable) 
+  komponent na nastavení èasového intervalu<em> (=nezamìòovat , prosím, s èasem, 
+  s kalendáøem - to uiž jsme si pøece pøed chvílí vysvìtlili)&nbsp; </em>jste 
+  nìkde po webech vidìli???</p>
+  <p>Tady je pøes 5 let stará:&nbsp;&nbsp;</p>
+  
+  
+<h3>final version, updated 2014-05-07 15:49</h3>
     <p>Hello {{helloMessage}}! <a href="http://msdn.microsoft.com/en-US/us-us/library/ee372286(v=vs.110).aspx"> TimeSpan docs</a></p> <br />
     
     
+    	
     
+    <table style="width: 100%">
+		<tr>
+			<td>&nbsp;</td>
+			<td class="show">  
     
-    <time-span value=timeSpan to-null-message="click to forever"  to-not-null-message="click to set finite value" null-message="forever" ></time-span>  <!--  <<< timeSpan is here -->
+    	
     
-    
-    
-    
+    <time-span class="timespan" value=timeSpan to-null-message="click to forever"  to-not-null-message="click to set finite value" null-message="forever" ></time-span>  <!--  <<< timeSpan is here -->
+      
     <p> result string value :&nbsp;&nbsp; "{{timeSpan}}" <input type=text ng-model=timeSpan style="width: 80px;text-align: center;" />
     <br /><br /><br />write new value: <input type=text ng-model=timeSpanUpdate style="width: 80px;text-align: center;" />
                            <button ng-click="(timeSpan=timeSpanUpdate)">set new value</button>
+                           
+                </td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+  </table>
+
+
+           
     <br /><br /><p><a target='newWindow' href="https://www.flickr.com/photos/115652928@N03/13519931515/"> schema </a></p>
   <script>document.write("<a target='newWindow2' href='" + document.location + "' /></a> ")</script>
+  
   </body>
 </html>
