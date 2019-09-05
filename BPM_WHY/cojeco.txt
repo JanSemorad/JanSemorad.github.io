@@ -1,3 +1,5 @@
+cv-bpm002                                                                               https://tinyurl.com/cv-Jan-Semorad-bpm002
+cherryPick_bpm   https://jansemorad.github.io/www/Pictures/cherryPick_bpm_angular.png   cherryPick-bpm-free
 draggable loader bootstraping   https://jansemorad.github.io/www/code/draggable-extension.js     draggable-extension-js
 TimeSpan  https://jansemorad.github.io/www/examples/timespan/timespan.html       bpmReloaded015
 BpmWhy    https://jansemorad.github.io/BPM_WHY/BPM_WHY_20180818_report_final_.html         bpmReloaded014
