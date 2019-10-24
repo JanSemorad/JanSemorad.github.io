@@ -1,3 +1,4 @@
+DAX    https://jansemorad.github.io/www/Pictures/DAX%20language.png                    bpmReloaded018
 bpm_router    https://jansemorad.github.io/www/Pictures/bpm_router.png                    bpmReloaded017
 movable html-extension  https://jansemorad.github.io/www/brainstorming/HTML-Extension.html           bpmReloaded016
 cv-bpm002                                                          https://tinyurl.com/cv-Jan-Semorad-bpm002
