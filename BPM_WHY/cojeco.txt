@@ -1,3 +1,5 @@
+Bpm DSL-BL     https://jansemorad.github.io/www/Pictures/DSL_BL.png                              bpmReloaded025
+Bpm Pizza      https://jansemorad.github.io/www/Pictures/BPMNDemo_pizza.png                      bpmReloaded024
 BpmWhy-Mini    https://jansemorad.github.io/BPM_WHY/Files/MyWWWbpm.html                          bpmReloaded023
 bpm pohadka  https://jansemorad.github.io/www/Pictures/OStrakatemKuzlatku.jpg                    bpmReloaded022
 bpm UBER                                                                                   https://tinyurl.com/bpm-uber
