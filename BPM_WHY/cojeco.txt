@@ -1,3 +1,4 @@
+Bpm zednik     https://jansemorad.github.io/BPM_WHY/Files/bpm_zednik_programator.html            bpmReloaded026
 Bpm DSL-BL     https://jansemorad.github.io/www/Pictures/DSL_BL.png                              bpmReloaded025
 Bpm Pizza      https://jansemorad.github.io/www/Pictures/BPMNDemo_pizza.png                      bpmReloaded024
 BpmWhy-Mini    https://jansemorad.github.io/BPM_WHY/Files/MyWWWbpm.html                          bpmReloaded023
