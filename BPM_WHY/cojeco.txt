@@ -1,3 +1,7 @@
+REDUX_vs_BPM     https://jansemorad.github.io/www/Pictures/REDUX_vs_BPM.png            bpmReloaded028
+
+redux_MIDDLEWARE_BPM_bpmn_THUNK_SAGA_OBSERVABLE     https://jansemorad.github.io/www/Pictures/redux_MIDDLEWARE_BPM_bpmn_THUNK_SAGA_OBSERVABLE.png            bpmReloaded027
+
 Bpm zednik     https://jansemorad.github.io/BPM_WHY/Files/bpm_zednik_programator.html            bpmReloaded026
 Bpm DSL-BL     https://jansemorad.github.io/www/Pictures/DSL_BL.png                              bpmReloaded025
 Bpm Pizza      https://jansemorad.github.io/www/Pictures/BPMNDemo_pizza.png                      bpmReloaded024
