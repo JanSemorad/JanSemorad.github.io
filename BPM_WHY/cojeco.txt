@@ -1,3 +1,4 @@
+MOVABLE new 20221018   https://jansemorad.github.io/www/examples/movable/HTML-Extension.html
 REDUX_vs_BPM     https://jansemorad.github.io/www/Pictures/REDUX_vs_BPM.png            bpmReloaded028
 
 redux_MIDDLEWARE_BPM_bpmn_THUNK_SAGA_OBSERVABLE     https://jansemorad.github.io/www/Pictures/redux_MIDDLEWARE_BPM_bpmn_THUNK_SAGA_OBSERVABLE.png            bpmReloaded027
