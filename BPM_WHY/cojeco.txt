@@ -1,3 +1,4 @@
+BPM ARCH   Visual Paradigma SWF   https://jansemorad.github.io/www/arch_BPMN.html
 MOVABLE new 20221018   https://jansemorad.github.io/www/examples/movable/HTML-Extension.html
 REDUX_vs_BPM     https://jansemorad.github.io/www/Pictures/REDUX_vs_BPM.png            bpmReloaded028
 
