@@ -1,0 +1,1152 @@
+﻿my name is mark rendall i am a.net developer but i've been working in this business
+0:14
+for 30 years and over that time i've worked with some truly horrific programming languages i'm going to show
+0:20
+you a couple of them and uh yeah so this is not a talk where i'm going to
+0:27
+like audit and review all the programming languages in the world and then go ha this one is the worst because
+0:33
+that's just mean and also it's easy and we all know which one it is
+0:40
+um no what we're going to do is we are going to take the worst features
+0:46
+from a bunch of programming languages that might in other ways be very very good and perfectly acceptable and we're
+0:51
+going to mash them all together and make the worst programming language that there has ever been
+0:57
+in the whole of history and speaking of history there is a saying that those who do not
+1:04
+learn from history are unable to iterate on it and make it worse
+1:09
+and so we should look back at the history of programming languages at some truly egregious
+1:17
+terrible examples like for example cobol
+1:22
+cobol was the first programming language that was designed by committee
+1:28
+and it shows and it shows that the committee there was no you know when people go there are
+1:34
+no bad ideas i think that's what happened when they designed cobalt there are no bad ideas
+1:39
+and so every idea that anybody suggested they just went yes we'll put that in so this is hello world in cobalt uh you
+1:46
+identify the division and the program and then you say this is the you got the procedure division and then
+1:52
+you just say display hello world and then you stop run not sure what happens if you don't stop
+1:57
+run the program just keeps going forever and so cobol had a lot of boilerplate and
+2:04
+actually the idea i think behind cobol was that business people would be able to write their own
+2:10
+applications that was the dream in the 1960s and we all know how well that's
+2:15
+worked out business people can't even describe the applications they want much less write
+2:21
+them but ibm thought cobalt didn't have enough boilerplate and so they made their own version of cobol
+2:28
+and this i swear to god this is hello world in ibm cobalt
+2:33
+um i'm not even gonna try and dig into how this works because i i can't even
+2:39
+imagine it um but knowing how much ibm programmers get paid by the hour
+2:46
+that's about seven and a half thousand dollars worth of code there
+2:52
+just to print hello world then there was apl um apl was invented
+3:00
+by kenneth iverson uh as a teaching language to use in his computer science
+3:05
+and programming classes um it stands for a programming language because kenneth wasn't the most creative person
+3:12
+in the world uh outside of his programming language which actually in a
+3:17
+lot of ways was fantastic so this is hello world in apl if you just give it a string it goes well i'll just write that
+3:23
+back out to the standard output and we're done which is completely sane this is conway's game of life in apl
+3:32
+that one line of code is the whole of conway's game of life
+3:38
+now you might notice some interesting things in that line of code
+3:44
+like some of those characters are greek uh some of them are mathematical
+3:51
+uh some of them i think are just from a fever dream that kenneth had after
+3:57
+taking some acid with timothy leary in san francisco in order to write code in apl you
+4:04
+actually had to buy an apl keyboard which had all those weird little
+4:09
+squiggles on it and i that that's brilliant that's um i'm going to invent a programming language i'm going to say
+4:15
+this is what you need to learn to pass my course and here's the keyboard it costs 800 brilliant
+4:22
+then in the 1970s somebody invented a programming language called the compiler with no
+4:29
+pronounceable acronym or intercal and intercal was the first
+4:35
+or it's the first known example of a joke programming language so this was a
+4:41
+parody of the programming languages that were around at the time like fortran and fourth and things like that
+4:46
+and it was designed to be ridiculously difficult to code in
+4:52
+um and just also to poke fun at other programming languages so you notice
+4:57
+four of the lines here start with please you had to say please on some of the
+5:04
+lines of code when you were writing into cal if you didn't say please often enough you would get a compiler error
+5:11
+that said programmer is insufficiently com polite
+5:19
+if you just tried to cheat and went well i just put please at the start of every line you would get a compiler error that
+5:25
+said programmer is excessively polite and the correct ratio of pleas to to not
+5:33
+please was not documented anywhere into cal also did not have the go-to
+5:40
+keyword it had come from and so if you wanted to do a conditional
+5:46
+bit and jump to somewhere else in your program uh you would have a line that said um
+5:52
+if something and then the next line would say please do nothing and then somewhere else in your code you would
+5:59
+have a come from statement that took control from that please do nothing line and did something else instead
+6:06
+and semantically that's identical to go to it's just done the other way around
+6:14
+intercal was also the worst compiler ever so at the time uh
+6:20
+they they benchmarked it and it was designed to be as slow as if you didn't have please give up at the end by the
+6:26
+way it would um run your cpu up to 100 usage and just stay there until you turn the machine off
+6:32
+um they benchmarked into cal uh at the time to make sure it was as slow as it
+6:38
+could possibly be um and they compared it to uh i think it was a fortran application running the
+6:45
+eris civ of eritosthenes which is the prime number finder
+6:51
+and the fortran version took half a second to find all the primes up to one million and the intercal version took 17
+6:57
+hours the final results of the benchmark aren't actually in yet because the jvm
+7:04
+version is still spinning up the virtual machine yay java
+7:10
+um visual basic another joke programming language that then accidentally got bought by microsoft and promulgated out
+7:17
+to the world and and people used it to build things um in the 90s when uh windows 3.1 and
+7:24
+then windows 95 came along i'd been working on unix systems and my company went oh we've got to switch to windows
+7:30
+go and evaluate which are the best um platforms for for writing windows applications and it probably would have
+7:36
+been visual basic but i just didn't like it um it didn't do object oriented code at
+7:43
+the time and its data access layer was basically non-existent in visual basic
+7:49
+three they only added that in visual basic four with the ado framework and so i went with another
+7:56
+language gupta sql windows
+8:01
+is there a gupta sql windows user in the room no no you're lucky bastards
+8:08
+so this is the gupta sql windows code editor and yes that is a tree view
+8:15
+and yes that is the editor you would edit so it's like significant white
+8:20
+space but it's not it's actually a tree view and so you could insert a nested
+8:26
+or insert at same level and this when you saved your code it
+8:32
+wasn't text it saved your source code as a binary file
+8:37
+and then the compiler compiled it into bytecode and then put it in a an
+8:42
+executable with a header and it was just it wasn't good
+8:47
+and so i i left that behind and moved onto net so we are going to
+8:53
+see if we can make something worse than all of these languages except possibly into cal but let's see if we can get as
+9:00
+bad as into cal so we need a name for our language and nice short names that are easily
+9:06
+googleable are a key thing when you're creating a programming language so i'm going to
+9:11
+call it bs because be able to google that and there'll be no confusion
+9:16
+people will find that and also programming languages these days you need taglines and marketing for it and
+9:22
+all this sort of stuff and so bs's tagline is going to be why because
+9:27
+you that's why you can beat that on the recording
+9:32
+so we need our design principles for our language our bs design principles now a
+9:37
+lot of languages try to create the pit of success they try to make it easy for the programmer to do the right thing
+9:44
+that doesn't sound like any fun at all we want to create the pit of fail
+9:49
+actually that's that's not even that's not enough i want to create the booby-trapped aztec temple of fail in my
+9:57
+programming language that's what it should be like coding in bs you should feel like harrison ford running away
+10:04
+from a giant boulder and then bumping into a bunch of people pointing arrows at you with a
+10:10
+nazi archaeologist we are not going to trust the programmer to get simple things right we're going
+10:16
+to make that as difficult as we can because programmers know who trusts programmers
+10:22
+to do anything we're useless we're distracted easily we're spending half our time on twitter
+10:27
+half our time on something else half our time playing browser games and we can't even do fractions properly it's
+10:34
+ridiculous so we're not going to trust the programmer to get simple things right but we are going to leave it all all the really complicated stuff up to
+10:41
+the programmer to deal with and make sure that they're having to really work to get this going
+10:48
+and we should target as many things as possible so some programming languages
+10:53
+if you look at like rust so rust specifically targets systems level
+10:58
+programming and then people try and use it for other things like building websites and the rust team are like why
+11:04
+are you doing there's there are other things use node do something else but no
+11:10
+we if we just focus on doing one thing well then then we might accidentally do that and so we're going to try and do
+11:17
+everything so we're going to try and low level systems and embedded code and rich graphical user interfaces and websites
+11:23
+and a something on bs type web framework and the internet of things and furbies and
+11:30
+vr and ar and metaverse and everything else so
+11:35
+we're going to start we're going to take sort of one of the existing programming languages we'll use
+11:42
+that as our base because every programming language since essentially the first one has been based on one that
+11:48
+came before it so uh c was based on b b was based on a a was based on algol
+11:55
+algol was based on fortran it all goes back that way and so if we move that forward and go okay that's languages
+12:01
+that were inspired by c and so we get php
+12:08
+php is a recursive acronym it originally stood for um [Music]
+12:13
+perl hypertext preprocessor i've noticed it stood for personal home page because the dude made it to write his personal
+12:20
+home page and then it stood for um personal hypertext processor but now
+12:26
+it's actually one of those recursive acronyms it stands for php hates programmers
+12:33
+because that's the only explanation i can think of for php
+12:38
+um so what we're going to take from php is the total inconsistency php has shouty case and camelcase and snake case
+12:46
+and pascal case and just all the different cases all the different ways of expressing things we're going to have
+12:52
+pointless variable prefixing php all the variables have to start with a dollar if everything has to start with a dollar
+12:58
+why does anything have to start with the dollar we're going to have the hassle of c and c plus plus but the performance of
+13:04
+altair basic which you know if you're not old it wasn't good
+13:10
+so we're going to start here's our starter bs program we have a class because we're
+13:15
+an object-oriented language and we have a public function underscore underscore construct because that's how php does
+13:22
+its constructors we're not going to prefix our variables with the dollar symbol because we're
+13:27
+european even post brexit i still consider myself a european so we're going to prefix our variables with the
+13:34
+euro symbol and that has the extra advantage the it's actually quite difficult to type on
+13:40
+most keyboards and so that will make programmers work for it we're going to use the minus greater than um symbol for
+13:48
+dereferencing properties and fields and members inside classes because dot that's just far too easy who
+13:56
+wants to type one character when you can be forced to type two um and we're going to have curly brace
+14:02
+let's start with curly braces and semicolons we'll think about whether we want to keep those um and for string
+14:08
+concatenation we're going to use commas rather than the plus symbol because
+14:14
+yeah because we are so yes here are here are our key
+14:19
+differences we have an underscore underscore construct we have the uh
+14:24
+minus arrow dereferencing and we have commas for string concatenation and we have our oh
+14:31
+and we have the colon colon for static methods as well so that's a good start what else can we
+14:38
+look at uh let's look at python so any python programmers in the room
+14:45
+it's it's python you know it's the most popular programming language in the world now and there is a reason for that python is
+14:52
+is actually generally uh very good and and very reasonable apart from this one
+14:58
+thing this is some broken python code uh this chucks an error that says invalid constant when you try to run it
+15:04
+here's the fixed version of that same code um what was wrong with the code on the left
+15:13
+it had a mixture of tabs and spaces for the indentation
+15:19
+which i don't know why that happened i opened it up in my editor and i added some code
+15:25
+and i yeah somehow it it a tab found its way in there so from
+15:30
+python we're going to take significant white space and to be fair that we're not just picking on python here there
+15:36
+are other significant white space languages like f sharp and haskell and ocam and
+15:41
+probably others coffeescript whatever happened to coffeescript i used to like coffeescript despite the significant
+15:48
+white space so we're going to use significant whitespace in bs so this is simplified
+15:53
+bs quite a lot here we've got our class greeter there and and our public function construct and
+16:00
+we're going to use two spaces for indentation but if you are indenting by four spaces
+16:06
+then you use a tab if you're indenting by six spaces then you use a tab and two spaces and if you're indenting by and so
+16:13
+on and so on and so on so let's talk about how we're going to do
+16:19
+comments then because comments you can have line comments you can have block comments you can have all sorts of comments and you
+16:24
+need comments in code so that people know what's going on and why you've made the decisions and so in bs
+16:31
+because you're either using a tab and two space or two spaces or some combination of those
+16:36
+and so in bs any line that starts with a number of spaces that modulo two is
+16:45
+one will be treated as a comment so if you start a line with a tab and a
+16:50
+single space or a tab in three spaces or just with seven spaces then everything after that is a comment
+16:57
+so there you go this is a comment but you also need so c uh c and c plus
+17:05
+have the slash star and star slash to start and begin a comment and so if you
+17:10
+use tab space and then space tab on a blank line then it comments out
+17:15
+everything in between those two things so that public function foo at the bottom there is actually commented out
+17:27
+if you use the approved bs editor to edit your bs code
+17:32
+three thousand pounds a year from my company then that will gray out ever so slightly so you'll know that it's been
+17:38
+commented out the next thing we're obviously going to have to bring in is common to all
+17:46
+programming languages and it is of course null
+17:51
+every language um forgotten the guys was it alan kaye
+17:56
+working on the small talk project and he called um he called null his billion dollar mistake and i think that's
+18:03
+probably an underestimate i think we're probably up somewhere around a trillion by now
+18:08
+every language ever has a null and a nothing and an undefined and a data and an empty and a nil and
+18:15
+uh you know javascript's got like eight different things that all mean null so so obviously we're going to have that
+18:21
+uh which means we're going to have to do checking for nulls around the place and
+18:27
+um there's one language where when you're checking something and potentially throwing exceptions it does
+18:34
+it ever so slightly differently to every other language and that language is ruby
+18:40
+because ruby in its every piece of code should look like
+18:45
+you've written a sentence and it should be readable and it should make programmers happy and so for some reason
+18:50
+matt's decided that that involved putting in an unless keyword which was
+18:55
+an alternative to the if keyword so instead of saying if allowed formats
+19:01
+does not include format raise invalid format you say raise invalid format
+19:06
+unless so you raise an exception unless everything's okay which is like me running in here and
+19:12
+going everybody get out unless there's not a fire it's it's the wrong way round it's i why
+19:20
+why would you do this i don't understand it so i'm putting it in my language it's brilliant it we're not going to have if
+19:26
+at all so ruby does have if bs is not going to have if we're just going to have unless
+19:33
+also we're going to have a single exception and then we'll leave it up to the programmer to analyze the stack trace
+19:40
+and core dump to work out what it was that actually went wrong that exception is going to be called halt and catch fire and that is a
+19:48
+key word and that just throws an exception uh it's basically like panic
+19:53
+but much more dramatic so we're going to say halton catch fire and then
+19:58
+indentation on the line after you obviously have to come out you're out denting after your halt and catch fire
+20:03
+and say unless name does not equal null um and so the s now we have exceptions and
+20:09
+exception handling our next feature uh does not come from a programming
+20:15
+language at all it comes from an actual language is there anybody in from greece
+20:21
+or who knows greek or speaks greek so this
+20:27
+is a greek question mark not a semicolon it's a question mark
+20:35
+that's a greek semicolon um literally unicode because the greek
+20:40
+question mark looks so much like a semicolon the unicode just automatically maps the greek question mark code to
+20:47
+whatever the semicolon is from the same character set and so in bs your unless
+20:53
+statements have to end with the greek question mark not a semicolon degree question mark and
+20:59
+we'll sell keyboards with a special key that has a greek question mark key on it and we'll put it right next to the semicolon key and you'll just have to
+21:07
+remember which one of them is which so the next language we're going to take
+21:12
+stuff from is javascript and let's be honest there's a ton of stuff we could take from javascript the whole
+21:18
+prototypal class based system and and just
+21:24
+only having floating point numbers that would be a good one but what we're going to take from javascript
+21:31
+is this so in javascript
+21:36
+blank string does not equal the string 0 but 0 does equal the blank string and
+21:44
+zero does equal the string zero so yeah figure that one out false equals
+21:50
+undefined false doesn't equal undefined and false doesn't equal null but null does equal undefined and that comes back
+21:56
+as true javascript has type coercion um and
+22:01
+if you use double equals or bang equals to do a comparison then javascript will
+22:07
+do its level best to make what you're doing true and it's just because it's like well
+22:13
+programmers want things to be true we are seekers after truth i should make as many things true as possible i should
+22:19
+jump through hoops to make things true so we're going to have this as well but we're going to take it up a notch and
+22:25
+we're going to say that zero equals the empty string and zero equals the zero as a string and also
+22:31
+zero equals the word zero in a string and 22 divided by seven equals the emoji
+22:37
+for pi um
+22:43
+so javascript uh because people kind of went this is not helping me i need to
+22:50
+actually know whether two things are the same or not please please please can we turn this off
+22:55
+but the problem with javascript is you can't fix it because there's tens of billions of lines of code of it out
+23:01
+there in web pages and some of it hasn't been updated since 1996
+23:06
+and so you can't fix javascript and so they went all right we'll add so if you
+23:11
+use equals equals equals then it'll do strict equality and so none of these
+23:16
+things then you'll get this through properly and so we're going to do a strict equality check as well if you don't want type coercion but rather than
+23:24
+saying uh equals equals equals we're just going to like make the
+23:29
+the the equals operator important by putting an exclamation mark after it so bang equals bang
+23:36
+means strict does not equal i call that the shopping trolley operator
+23:44
+so if you want to do a strict equality check you have to negate the strict inequality
+23:51
+operator so the strict equality operator is bang bang equals bang which i call
+23:57
+the person on the hoverboard pushing a shopping trolley operator
+24:02
+okay let's talk about strings so uh strings we've got multiple formats
+24:10
+for strings we've got ascii and ansi and and uh unicode and unicode split up into
+24:16
+utf-8 and utf-16 and utf-32 nobody uses utf-32 anymore windows uses utf-16
+24:23
+internally for everything but the web uses utf-8 most programming languages these days
+24:29
+say utf-8 so goes strings and python strings i think now are utf-8 and so we
+24:35
+deal with utf-8 unless we've actually loaded a library to do something differently but i want to be able to cope with all kinds of strings so if you
+24:42
+have a string literal that's enco enclosed in single quotes that's an ascii string if you enclose it in pairs
+24:48
+of single quotes that's an ansi string if you enclose it in double quotes then it's a dbcs string if you enclose it in
+24:56
+pairs of double quotes then it's an ebcdic string that's important because we want to be able to run bs on ibm
+25:03
+mainframes because we're going to replace cobol with bs because those are the only
+25:11
+people in the world who are going to look at this language and go yeah that's better
+25:18
+if you enclose your string in what i as an english person think of as french
+25:23
+quotes then it is a utf-256 encoded string so utf-256 uses 256 bits
+25:33
+for ev it's a 256-bit number for every character in the alphabet and this is
+25:39
+brilliant because unicode um utf-8 uses this variable length encoding ut some of
+25:45
+them are sort of one byte and some of them are four bytes um we're just going to go to hell with that we're going to
+25:51
+use 16 bytes for every is it 16 or 32 i can't do math um whatever it is
+25:58
+we're going to use 256 but we will never run out of address space for characters
+26:04
+no matter because that actually allows us to have a character for every subatomic particle in the solar system
+26:11
+that's a lot of characters and i'm going to make a website where you can upload any bloody picture you like and i'll
+26:17
+give you back the utf-256 encoding for it and then you can use it in a string and then all the programs in the world
+26:24
+will have to come to my web server to download the character for that youtube 256 thing
+26:29
+[Music] if you enclose your string in pairs of french quotes then it's utf-256 but with
+26:38
+string interpolation string interpolation is not possible with any of the other string types
+26:45
+because q visual basic six in this instance but
+26:51
+you know um this was there were lots of things to love about visual basic arrays started
+26:57
+at one unless you did something somewhere in one place in the program and then suddenly all the arrays
+27:02
+throughout the entire program started at zero and that was fun when somebody checked that change in
+27:08
+but no visual basic for a raise decided that uh the square brackets might be a little
+27:16
+bit hard for visual basic programmers to find on their keyboards they knew where the round brackets were everyone knows
+27:22
+where the round brackets are so let's just use the round brackets for arrays and array indexing as well
+27:27
+so that's that's how visual basic does things so we say dim f round brackets 10 as
+27:34
+integer and then later on you see something going f1 and you're kind of like are you calling a function f and
+27:40
+passing one or are you getting the first thing out of that f array also visual basics
+27:46
+default integer type despite being a 32-bit language or a 32-bit compiler had
+27:53
+16-bit integers and so if you wanted a 32-bit integer you had to use long and
+27:58
+if you wanted a 64-bit integer you had to write a com add-on in c plus plus
+28:04
+so we're doing that we like that we're going to have round brackets for our um for our array indexes and also our
+28:12
+integers are just going to be 17-bit um because we've bought shares in all the memory companies and so
+28:19
+we don't care about those other um 15 bits that are that are being left
+28:24
+empty because that's just making people buy more memory and that's making our share value go up it's brilliant
+28:33
+c and c plus plus i did see programming my first uh my first job
+28:38
+um it was on the job training it was like an apprenticeship and i turned up on my first day and they gave me a copy
+28:44
+of kernighan and ritchie's c programming book and they said work through that at
+28:49
+that terminal there so i sat down at the time i'm like how do i open a text editor and he went oh type vi
+28:56
+and the name of the file and it'll just create it for you sorry vi hello dot c
+29:02
+and then trying to start typing and there was a little semi-circle of all the other programmers who'd been there a
+29:07
+bit longer standing around me going hey he's just learned vi so yes
+29:13
+but um c had this brilliant feature uh called macros
+29:19
+which was essentially just string substitution through the code and at the time there was a big you know the holy
+29:26
+war so like vi versus emacs and net versus java and um and all these different things you know uh
+29:33
+react versus angular at the time it was c versus pascal believe it or not pascal
+29:38
+was actually considered a viable programming language back in 1989 and
+29:44
+that one of the arguments that the c people had was that c was better because you could declare a few macros at the
+29:51
+start of your c program and then it would compile pascal code but there was nothing you could do to pascal to make
+29:57
+it to compile c code and kind of like that i like what you've done
+30:03
+but it's not a good argument but i like macros they they can make surprising things happen so we're going to have
+30:09
+macros in bs modern languages um like rust for
+30:14
+example have what's called hygienic macros so they're actual little processes that run
+30:20
+inside the compiler and can do intelligent things and i like that idea of being able to do something a bit more
+30:26
+intelligent than just basic string substitution and actually there's already a fantastic way to do more
+30:33
+complex string substitution so i'm just going to use regular expressions
+30:38
+macros in bs are regular anything you can express in a regular expression you
+30:43
+can turn into a macro in bs and the specific regular expression syntax is
+30:49
+the one that you use in vi or vim for search and replace so when you do column percent s slash something slash
+30:56
+something else slash g this is this is the same thing here so this i've done define and then a capture
+31:02
+group and then thing and you've got the carrot at the start and colon at the end
+31:08
+and then a dollar to say the end of the string so this will match an entire string and then it will replace that with class and then whatever was
+31:15
+captured in that group so now in my code when i write my greeter thing colon this
+31:21
+macro will come along and replace that and turn that into class greeter
+31:29
+are you not entertained so yes because because what could
+31:36
+possibly go wrong with that so there are some things i'm not quite sure on um
+31:41
+i'm still sort of thinking them through static or dynamic typing so static type
+31:46
+i personally prefer a statically typed language i'm a c-sharp developer um and
+31:52
+uh it's other languages come along and i look at them and go do i still want to be a yeah
+31:58
+no i'm fine um because c sharp is is great and it's statically typed there
+32:03
+are times when that can be a bit annoying and you sort of think i wish this could be dynamic and then you
+32:09
+actually use the c sharp dynamic keyword and you go no i don't um but
+32:14
+uh so yeah there's there's a lot to be said for static typing there's a lot to be said for dynamic typing very quick prototyping very easy to do test driven
+32:21
+development in a in a dynamically typed language because you can you can
+32:27
+literally write the test first and it will run uh in a statically typed language if you write the test first and
+32:32
+you haven't written any of the implementation it'll just go i'm not compiling um so yes
+32:38
+so you know it's it's it's six of one half a dozen of the other and then i discovered that there's a
+32:44
+thing called gradual typing which facebook um use in their their programming language flow and actually
+32:51
+typescript originally did this it was optional so you could put a type hint
+32:57
+python has this now as well as of like 3.8 i think python has type hints so you
+33:02
+don't have to but you can put a type hint in there to say this variable
+33:08
+should be a string or it should be an integer or it should be something um and so yeah facebook and flow has this and
+33:15
+so we're going to do this gradual typing thing in bs we're going to introduce a new keyword is probably uh
+33:25
+and because you know it's colon that could mean anything at all so we're gonna have
+33:30
+is probably a we're gonna do localized versions of this as well so so we'll do a norwegian version with whatever the
+33:36
+norwegian for is probably uh is is going to be in there as well also um grammar
+33:42
+is very important and in the english language we have two indefinite articles a and an and we use an when the word
+33:50
+after it starts with a vowel or an h if you're very posh um and so this is going to do grammar
+33:58
+checking as well and so you say is probably a string but is probably an integer
+34:03
+and if you get that wrong that'll be a compiler error but it'll just say invalid constant
+34:14
+script or compiled so you know i quite like the idea of
+34:19
+scripted languages because it forces you to send your source code out there and then anybody who wants to can look at it and see how terrible it is but compiled
+34:27
+is good too because if you compile the code then it makes it much harder to work out why it's running really really
+34:33
+slowly which is of course because we've put for x equals zero to a million nop
+34:40
+in the machine code that has been output or we can do semi-compiled so a lot of languages are semi-compiled like c-sharp
+34:47
+and java for example is compiled to an intermediate byte code and then you ship that and then it gets jit compiled um
+34:54
+and so uh we're going to go for that semi-compiled thing we're going to generate this intermediate code but we
+35:02
+should also make sure that this compiles to ecmascript 3 so that people can write things that still run in internet
+35:07
+explorer 6 because it's still getting out there um
+35:13
+how many times do you see it you're watching on news particularly hospitals this is the terrifying thing and somebody's being interviewed and you
+35:19
+look behind them and you're going that's windows xp why have you got windows xp in your hospital
+35:25
+why what are you doing memory management um i like garbage
+35:30
+collected languages they make life nice and easy you just create things and then when you're finished with them there's
+35:35
+an automated process that comes along and goes oh you're not using that anymore i'll get rid of that for you
+35:41
+and clean up behind you um having worked in c for five years where you had to
+35:47
+malloc memory that you wanted and then put text into it and then remember to free it
+35:52
+again later otherwise everything just went to hell and the really brilliant thing with with
+35:59
+c even back in like 19 1991 there was a thing called lindt which could run over your c code and it would point out to
+36:07
+you when you had mallocked and you didn't appear to have freed that anywhere and
+36:12
+you kind of like if you can do that in the lint why don't you just do it in the king
+36:17
+compiler make my life easy rust has got this
+36:22
+whole thing going on with only one thing at a time can own a variable which it's it's a nightmare
+36:30
+there are two things so nothing is taken from rust in this by the way because um rust
+36:36
+is is very close to being the perfect language um and rust's uh
+36:42
+borrow checker and and lifetime checkers and all this sort of stuff they make life very difficult
+36:48
+but the reason they're making life very difficult is because the things you're trying to do are really really bad and
+36:53
+you shouldn't be doing them and they have the potential to cause your program to crash and do unexpected things
+37:00
+and rust knows this and so rust isn't going to let you do these things but
+37:05
+if you haven't tried rust just grab it and and work through the first couple of chapters of the rust book and do
+37:11
+something wrong because the error messages in rust it's like it's like a hug
+37:17
+from the compilers they're they're there you did your best yes yeah no you see
+37:22
+you see here where you've done this no you can't do that no no it's bad no
+37:28
+what you probably want to do is this it teaches you rust the compiler teeth is lovely
+37:34
+so yeah we're not doing that definitely our error messages are going to be hell we're going to force our programmers to
+37:40
+free everything they're not going to mallock them they're not going to know that they've allocated them we're just
+37:46
+going to make them free them we're going to use delete and delete is going to start with a capital letter unlike every
+37:51
+other keyword because delete is important you don't want to leak memory and you have to delete everything if
+37:57
+you've used a variable you have to delete it so there's no pass by reference so the
+38:03
+the name parameter that's been passed into our construct here that's a copy of the name parameter wherever that came
+38:09
+from so now you own this this name variable here so you have to delete that when your function is finished any
+38:15
+parameters you took in any variables you created the only thing you don't delete is if your function returns something
+38:20
+then i actually know you have to delete that as well because when it returns it it'll make a copy of that and then the thing that called the function will own
+38:26
+that and so after the return statement you have to delete the variable you just returned it's gonna be great what could
+38:33
+possibly go wrong everything that's the point loops
+38:38
+i'm a big big big big believer in the the principle that if it's broke
+38:45
+you shouldn't fix it and if it isn't broke you should fix it until it breaks and then run away
+38:52
+hire me but no there's there are four loops
+38:57
+there are while loops there are four reach loops there are iterators there are do while loops there's all different
+39:03
+ways of doing loops but we all know the best way of doing loops thank you into cal thank you basic is go to
+39:11
+so modern languages c has go to c sharp has go to i actually use go to in c
+39:16
+sharp um not a lot but
+39:22
+you know when you have a try method in c sharp and it's got an out
+39:27
+and you're going to do a bunch of things to see if you can set that out variable and then you're going to return true or
+39:33
+you're going to set that out variable to its default value and return false and
+39:39
+if there are like three or four different ways that trying to do this can fail you don't want to repeat that
+39:44
+set it to its default value and return false so you put set it to its default value and return false at the bottom of
+39:51
+your c sharp function and you put a fail label on it so fail colon and then as
+39:57
+you're going through you just go go to fail go to fail go to fail and then just before you fail you set it to what it should be in return through it
+40:04
+and there's nothing wrong with doing that and people go oh you've put goto in your code people literally have like um
+40:11
+like net code analyzers that they've written with roslyn just just to look for the word go to just go ah you're bad
+40:17
+and you're kind of like a no i'm not because it's in there and if it's in there you should be allowed to use it
+40:23
+and b write some code that doesn't use go to and then go and look at the intermediate
+40:29
+language that is generated from that what do you find in gotos all over the place so i'm putting them in my code
+40:36
+but we're not going to have labels we're going to have line numbers we're only going to have line numbers though for lines that you are going to
+40:42
+because what's the point of having line numbers for anything else and because i am a big fan of douglas adams line
+40:48
+numbers have to be a multiple of 42 uh so you have line 42 and then the next line that you want to go to is going to
+40:54
+be line 84 and we're going to go up like that and they have to be sequentially
+41:00
+increasing and by 42 each time throughout your entire program and so if you need to introduce a new one halfway
+41:06
+through you're going to have to manually renumber all the go-to lines underneath that we'll sell a refactoring tool that will
+41:12
+do that for you twenty thousand dollars so we're gonna say 42
+41:18
+echo thing uh and and whatever else and then go to 42 unless
+41:25
+uh the decremented times is strictly equal as your bang bang equals bang
+41:31
+operator to zero and so this will print that string that number of times um
+41:38
+the terrifying thing that i realized as i was writing this example code is
+41:43
+you could write a compiler that would do that that that that would potentially work please don't
+41:50
+please i did this talk at build stuff in 2014 and and
+41:55
+two different groups of people went off and started github repos i was just kind of no no no no there are much better or
+42:03
+worse things you could do with your time so modern programming languages we've got multi-core processors now we've got
+42:09
+um my home machine has got 16 cores and each one of them is hyper threading so it's 32 logical calls in my
+42:17
+machine so we have to support parallelism we have to be able to parallelize tasks so they can run as fast as possible which means we need to
+42:24
+to do threads um and there's lots of different ways that go has go routines and there are says thread factory thread
+42:31
+uh was it threadpool.q user work item and all
+42:37
+these sorts of things and i was trying to think how can i bring bring threading into bs
+42:43
+and i thought well you know the basic people they like having words for things like they're like lots of keywords and stuff so let's
+42:49
+do something to to please the basic people so if you want two pieces of code to run at the same time in bs you just
+42:58
+say do this and this and it will run both those lines of code
+43:03
+at the same time so it will run hello and goodbye at the same time who knows
+43:08
+which one of those will finish first it's indeterminate as threading should be so and that's that that makes sense to
+43:14
+me that's that's completely fine the problem though with this way of doing threads which i am now married to
+43:20
+um and i i cannot possibly contemplate any other way of doing threads is is it's not dynamic
+43:27
+so if i get an array of something and i want to run an operation on each element
+43:32
+in that array and i want to do that in a multi-threaded way so like parallel.4 or
+43:37
+parallel.4 each in c sharp um there's there's no way of doing that because it's i it's got do and and and and and
+43:45
+and so i i racked my brains and i thought there must be a solution to this
+43:51
+and then i realized that there's a terrible language from way back in the mists of time that i hadn't taken
+43:58
+anything from yet which was fourth fourth was was a truly
+44:05
+weird language back in the 1950s i think fourth came from
+44:10
+and fourth was the first language that had the evaluate instruction
+44:16
+so in fourth you could write some code in a string and then say to fourth
+44:22
+compile that and run it dynamically at runtime and actually so many languages um still
+44:27
+have you know you can do that in c sharp with uh with the rosalind compiler you can generate an in-memory assembly and run
+44:33
+it at runtime and and there are brilliant and clever things you can do with that javascript famously
+44:40
+json javascript object notation the original idea with json was that it was not just an object format it was also
+44:47
+valid javascript and so you could just say eval a string and it would become an
+44:52
+in-memory object and people went that's genius and other people went so if i put a function in that string i
+44:59
+can do pretty much whatever i want on your computer and the people who invented jason when oh no there are bad
+45:04
+people in the world who knew um but no so we're going to bring in eval
+45:10
+for for bs lang and so if i want to do something dynamically with threads then i can just
+45:17
+build up a string and so i'm going to work through this so we start
+45:24
+with i as -1 oh the gradual typing thing if the thing
+45:30
+you're passing in is an array then you don't say like string bracket bracket
+45:37
+you say things are probably strings or the equivalent plural
+45:43
+conjugation of to be in the relevant language so we say i to minus one and we
+45:48
+create an empty uh that's a an ascii string
+45:54
+no it's an ansi string whatever it is um and then we say line 42 we're going to
+46:00
+uh set threads to do um uh else we'll set threads to and will
+46:08
+append um and to threads unless i
+46:14
+is equal to one oh i forgot to mention earlier on
+46:21
+so yeah visual basics arrays started at one most other programming languages
+46:26
+arrays start at zero bs lang's arrays start at minus one and then go down
+46:33
+because they can and it is actually laid out backwards in memory uh which will please all the java
+46:39
+people with their big endian integers so yes so we start at minus one
+46:46
+this threads 42 threads is this else threads is that
+46:51
+um and then unless so what we're saying is unless i equals minus 1 do the line
+46:57
+above else do the the line that starts with 42. that's an inverted if statement using
+47:03
+unless there you go ruby that's how stupid unless is okay then we add the line to say the
+47:12
+things that we've currently got in our string and then we go to 42
+47:17
+unless negative and less decremented i is less than the length of things the
+47:24
+length oh less than minus the length of things so despite the fact that arrays start at minus one and then go down when
+47:32
+you call len on an array it will return a positive number and actually that's fine because we are
+47:37
+all completely used to the fact that when we get the length of an array in
+47:42
+any programming language except visual basic to be fair um it will be one more than the highest index
+47:49
+in that array so if you get up a bound it'll be one less so yes
+47:55
+then there is a a static method that is in all no there is a method in all caps
+48:01
+on the string type in bslang called evaluate which will just cause it to run
+48:07
+and then we have to delete threads and i obviously because we're finished with them
+48:13
+wouldn't you love to turn up to work every day and just know that you were going to work with this language
+48:19
+wouldn't that make you happy no oh suit yourself
+48:24
+um this is the the last item this is something that dylan beatty actually drew my attention to yesterday
+48:31
+in go so in every other language and go
+48:37
+does things differently and i'm pretty sure it's just because
+48:42
+they're bastards um they've just added generics in go 1.18
+48:48
+finally after saying generics make things too complicated for ages now write the same
+48:53
+function over and over and over again for every possible type this array could be
+48:59
+they've added generics but for for generic type parameters and and
+49:04
+type arguments it's not angle brackets it's square brackets which they do also use for the array
+49:10
+indexer apparently you can't use angle brackets because they're also the less than and
+49:15
+greater than operator and so if you're assigning two variables uh if you say a comma b equals and then
+49:21
+you've got these things you have to the passer would have to read ahead to work out what was going on
+49:29
+so right make the passer read ahead to work out what's going on what the wrong with you it's not like the
+49:35
+passer's got better things to do than read my code is it but anyway they're doing that but goes
+49:41
+uh date handling whether you want to format a date or pass a date so if we want to format a date we can pass an
+49:47
+explicit string usually lowercase yyyy uppercase m for the month and you've got
+49:53
+mm if you want to print it with two digits and then mmm will do like jan feb mar and mmm we'll just print the whole
+50:01
+thing dd for day hh for 12 hour clock capital hh for 24
+50:07
+hour clock lower case mm for minutes lower case ss for seconds lowercase fff
+50:12
+for fractions every programming language in the world
+50:18
+uses that now as far as i can tell it's it's like this it's not an iso standard not like the iso date format but it is
+50:25
+pretty much standard go doesn't go uses january the 22nd 2006
+50:33
+at three minutes past four and five seconds uh mountain time
+50:40
+so seven hours behind gmt that is goes magic date and so however
+50:47
+you want to format your date you write that date in that format and then it
+50:53
+will turn whatever date you've actually got into that same format
+50:58
+because they're bastards that's the only thing i can think of it's this is documented in
+51:05
+their code it has go doesn't use yymmdd layout so they know it exists
+51:11
+they know about it but no they're not going to use it instead you format a special layout parameter monday january
+51:19
+the 2nd 150405 mst 2006 the same way as the time or
+51:25
+date should be formatted it has to be that exact date and time
+51:32
+and then there's this line this date is easier to remember when written as 0102 345 pm060700
+51:43
+okay but have you ever seen a date written like that
+51:48
+i have never ever in my life seen somebody format a date like that and bloody americans they put the month
+51:55
+first 0-102 the 2nd of january no that's the 1st of february
+52:01
+so it's too good it's going in um but i'm going to use as my date uh the 21st of
+52:08
+november 2014 at 10 minutes past five eastern european time uh which is the
+52:16
+start of the first time i ever gave this talk um and so i mean that's
+52:22
+okay it's it's not one two three four five six seven like goes one's uh is but
+52:28
+you may find it easier to remember when it's written as twenty one oh five ten zero zero pm
+52:34
+uh apostrophe 14 plus zero two zero zero um because there you go that's super
+52:40
+helpful i learned a norwegian word
+52:45
+if you're not norwegian that means you're welcome because i thought that was more appropriate than thank you
+52:51
+so yes those those are my ideas for the worst programming language ever
+52:57
+and and i do really want to thank go for that last contribution that's that's really tickled me um does anyone in the
+53:03
+audience we've got about uh seven minutes left on the clock does anyone in the audience have a a favorite feature
+53:10
+from their language that they think we should adopt that they'd like to share
+53:17
+no that's fine if you don't sometimes oh yes hello
+53:23
+you despite well yes matlab and it echoes out anything you don't and with a
+53:29
+semi-colon it matlab echoes out anything you don't end with a semicolon any line it echoes out
+53:35
+whatever you did on that line what i do is i go to the last slide as
+53:42
+i'm as i'm doing the presentation and i add speaker notes for it if i like it
+53:47
+i like it where's my view thing
+53:52
+ah speaker note speaker note speaker notes
+53:58
+outline view no notes page there we go um
+54:04
+so matlab echoes out any line that
+54:10
+doesn't end with a semicolon or a greek question
+54:16
+mark obviously in in in bs so yes that that's brilliant i love that
+54:21
+so yeah i'm gonna put that in for a future one hello yes i think maybe i'm
+54:27
+swearing in church but do you have anything to say about also or else
+54:34
+and also or else from vb
+54:41
+i'm not even familiar with those
+54:46
+okay
+54:52
+right so it would not evaluate further things if ah yes so if you did in in vb
+55:00
+6 if you did this and this and this and this it would evaluate all of them even
+55:05
+if the first one was false yes that's right and so they added because you can't break existing
+55:11
+behavior because people could be relying on side effects from the third thing in the and sequence happening even when the
+55:17
+first one was false and so they introduced and also um to say the that which was the early
+55:23
+terminating and operator in if statements um yeah i'd forgotten about that
+55:36
+yeah okay those are in there as well um so yes yes hello
+55:46
+yes oh so if statements should require you
+55:52
+or sorry unless statements should require you to break so
+55:58
+and functions i i like that you're a twisted puppy
+56:09
+so so here
+56:15
+um we would say 42 threads equal something break else threads equals break
+56:22
+um unless blah blah blah go to 42 break unless
+56:28
+negative negative i and then after delete threads and i we'd put break
+56:34
+yeah thank you not going to be able to fit these on the slides next time i do this talk
+56:41
+break at end of every
+56:46
+scope yep that's fantastic anybody else have any suggestions yes
+56:53
+hello at the can back function without braces
+57:00
+so like you call it function yeah but it's just written as a variable
+57:05
+oh yes i've seen ruby does that as well doesn't it if you're not passing parameters you don't
+57:13
+have to specify the parens yeah i'll put that down there
+57:20
+optional parens when
+57:25
+function has no params yeah that that's awesome hello yes
+57:31
+i think the language is a bit too effective with less than double minus
+57:41
+you would um but uh so yeah and i thought about that the
+57:47
+sort of um pre-ink and posting course or something like that um and doing it as a
+57:54
+function with like a ref parameter um but then i thought if we put plus plus
+57:59
+and minus minus in there we might trick programmers from c like languages to going oh they're serious
+58:12
+that's good yes yes you do have that um yep dash gt ah
+58:18
+there's a there is a left i want to say it's vb but i don't think it is um
+58:24
+there was a programming language i think it was one of the ones i evaluated at the same time as vb and uh and gupta sql
+58:30
+windows because i looked at power builder did anyone ever use power builder that sucked
+58:37
+informix new era but i've seen a language which has greater than and greater than equal and
+58:45
+less than and less than equal as keywords and doesn't support just the the mathematical operators for those
+58:52
+things because apparently according to unicode what we call the
+58:58
+less than and greater than characters are not actually the less than and greater than characters they're a type
+59:04
+of paren the mathematical characters for less than and greater than are hiding somewhere else in the unicode character
+59:10
+set we've been sold a lie so yeah
+59:16
+um right yes one more hello
+59:23
+you often have to prefix functions in build functions right
+59:30
+yes so prefix everything with bs yes
+59:40
+oh so so some things will and some things yeah okay so prefix
+59:46
+uh let's say 69 because that all that number makes my son laugh
+59:52
+he's 10. um thank you youtube uh of um standard
+1:00:01
+library uh members with bs
+1:00:06
+fantastic right our time is up thank you all so much for coming um thank you for
+1:00:12
+for coming to the conference generally i hope you had a great time please safe journey home and uh take
+1:00:19
+care of yourself and i hope that we will be back here in may june next year and
+1:00:24
+we can do this all again cheers [Applause]
+
