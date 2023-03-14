@@ -1,1 +1,1153 @@
-﻿
+﻿jmenuji se mark rendall, jsem vývojář a.net, ale pracuji v tomto oboru
+0:14
+30 let a za tu dobu jsem pracoval s opravdu hroznými programovacími jazyky, které ukážu
+0:20
+vy pár z nich a uh jo, takže tohle není řeč, kam půjdu
+0:27
+jako audit a přezkoumání všech programovacích jazyků na světě a pak jít, protože tento je nejhorší
+0:33
+to je prostě zlé a také snadné a všichni víme, který to je
+0:40
+hm ne, co budeme dělat, je, že vezmeme ty nejhorší vlastnosti
+0:46
+z hromady programovacích jazyků, které by jinak mohly být velmi dobré a naprosto přijatelné, a my jsme
+0:51
+všechny je spojíme dohromady a vytvoříme nejhorší programovací jazyk, jaký kdy existoval
+0:57
+v celých dějinách a když už mluvíme o historii, existuje rčení, že kdo ne
+1:04
+poučit se z historie, nejsou schopni ji opakovat a zhoršit ji
+1:09
+a tak bychom se měli ohlédnout za historií programovacích jazyků na některé skutečně ohromné
+1:17
+hrozné příklady jako například cobol
+1:22
+cobol byl první programovací jazyk, který navrhl výbor
+1:28
+a ukazuje to a ukazuje, že výbor tam nebyl, víte, kdy tam lidé chodí
+1:34
+žádné špatné nápady Myslím, že to se stalo, když navrhli kobalt, neexistují žádné špatné nápady
+1:39
+a tak každý nápad, který někdo navrhl, prostě šel ano, vložíme to, takže tohle je ahoj světe v kobaltu, uh ty
+1:46
+identifikujte divizi a program a pak řeknete, že toto je to, že jste dostali divizi postupu a pak
+1:52
+jen řeknete zobrazit ahoj světe a pak přestanete běžet a nejste si jisti, co se stane, když nezastavíte
+1:57
+spustit program prostě pokračuje navždy, a tak cobol měl spoustu standardních a
+2:04
+ve skutečnosti si myslím, že za cobolem byla myšlenka, že obchodníci budou schopni napsat své vlastní
+2:10
+aplikace, které byly snem v 60. letech a všichni víme, jak dobře to je
+2:15
+vyspělí obchodníci nedokážou ani popsat aplikace, které chtějí, mnohem méně psát
+2:21
+oni, ale ibm si mysleli, že kobalt nemá dostatek standardního provedení, a tak vytvořili vlastní verzi cobolu
+2:28
+a to přísahám bohu, toto je ahoj světe v kobaltu ibm
+2:33
+hm, ani se nebudu pokoušet zkoumat, jak to funguje, protože ani nemůžu
+2:39
+představte si to um, ale vědět, kolik programátoři IBM dostávají zaplaceno za hodinu
+2:46
+to je kód v hodnotě asi sedm a půl tisíce dolarů
+2:52
+jen pro tisk ahoj světe pak tam bylo apl um apl byl vynalezen
+3:00
+Kenneth Iverson uh jako vyučovací jazyk k použití ve své informatice
+3:05
+a kurzy programování um to znamená programovací jazyk, protože Kenneth nebyl nejkreativnější člověk
+3:12
+ve světě mimo jeho programovací jazyk, který vlastně v a
+3:17
+mnoho způsobů bylo fantastické, takže tohle je ahoj světe v apl, když tomu dáte řetězec, jde to dobře, napíšu to
+3:23
+vrátíme se ke standardnímu výstupu a máme hotovo, což je zcela rozumné, toto je Conwayova hra o život v apl
+3:32
+že jeden řádek kódu je celá Conwayova hra života
+3:38
+nyní si můžete všimnout některých zajímavých věcí v tomto řádku kódu
+3:44
+jako některé z těch znaků jsou řecké, některé z nich jsou matematické
+3:51
+uh, některé z nich jsou, myslím, jen z horečnatého snu, který měl poté Kenneth
+3:57
+vzít si trochu kyseliny s timothym learym v san francisco, abys mohl napsat kód v apl you
+4:04
+vlastně musel koupit apl klávesnici, která měla všechny ty podivné malé
+4:09
+čmáranice na tom a já, že to je skvělé, to je ehm, vymyslím programovací jazyk, řeknu
+4:15
+to je to, co se musíte naučit, abyste prošli mým kurzem, a tady je klávesnice, která stojí 800 brilantních
+4:22
+pak v 70. letech minulého století někdo vynalezl programovací jazyk nazvaný kompilátor s ne
+4:29
+vyslovitelná zkratka nebo intercal a intercal byl první
+4:35
+nebo je to první známý příklad programovacího jazyka vtipů, takže tohle byl a
+4:41
+parodie na programovací jazyky, které byly v té době jako fortran a čtvrtý a podobné věci
+4:46
+a bylo navrženo tak, aby bylo směšně obtížné kódovat
+4:52
+hm a také si dělat legraci z jiných programovacích jazyků, abyste si toho všimli
+4:57
+čtyři řádky zde začínají slovy prosím, na některé z nich jste museli říct prosím
+5:04
+řádků kódu, když jste zapisovali do cal, pokud byste dostatečně často neřekli please, dostanete chybu kompilátoru
+5:11
+že zmíněný programátor není dostatečně zdvořilý
+5:19
+pokud jste se jen pokusili podvádět a šlo to dobře, dal jsem prosím na začátek každého řádku, dostanete chybu kompilátoru, která
+5:25
+zmíněný programátor je přehnaně zdvořilý a má správný poměr proseb k ne
+5:33
+prosím nebyl nikde zdokumentován do cal také neměl go-to
+5:40
+klíčové slovo, ze kterého to přišlo, a tak, pokud jste chtěli udělat podmíněné
+5:46
+bit a skočte někam jinam ve vašem programu uh, měli byste řádek, který řekl hm
+5:52
+pokud by něco a pak další řádek řekl, prosím, nedělejte nic a pak někde jinde ve vašem kódu byste to udělali
+5:59
+mít pocházet z prohlášení, které převzalo kontrolu nad tím, prosím, nedělejte nic a místo toho udělali něco jiného
+6:06
+a sémanticky je to totožné s tím, že se to udělá naopak
+6:14
+intercal byl také nejhorší kompilátor všech dob, takže uh
+6:20
+oni to porovnali a bylo to navrženo tak, aby to bylo tak pomalé, jako kdybyste to neměli, vzdejte to na konci do
+6:26
+způsob, jak by um spustit váš CPU až 100 využití a jen zůstat tam, dokud nevypnete stroj
+6:32
+um, v té době srovnali cal uh, aby se ujistili, že je to tak pomalé
+6:38
+mohlo by to být um a porovnali to s uh, myslím, že to byla aplikace fortran, na které běží
+6:45
+eris civ eritosthenes, což je vyhledávač prvočísel
+6:51
+a fortranové verzi trvalo půl sekundy, než našla všechna prvočísla až do jednoho milionu a interkalové verzi trvalo 17
+6:57
+hodin, konečné výsledky benchmarku ve skutečnosti ještě nejsou, protože jvm
+7:04
+verze stále roztáčí virtuální stroj yay java
+7:10
+um visual basic další vtipný programovací jazyk, který pak omylem koupil microsoft a zveřejnil
+7:17
+do světa a lidé to používali k vytváření věcí v 90. letech, kdy Windows 3.1 a
+7:24
+pak přišel windows 95, pracoval jsem na unixových systémech a moje společnost šla, musíme přejít na windows
+7:30
+jít a zhodnotit, které jsou nejlepší platformy pro psaní aplikací pro Windows a pravděpodobně by to bylo
+7:36
+byl vizuální základ, ale prostě se mi to nelíbilo, nedělalo to objektově orientovaný kód
+7:43
+čas a jeho vrstva přístupu k datům ve Visual Basicu v podstatě neexistovala
+7:49
+tři dodali, že ve Visual Basicu čtyři s rámcem ado, a tak jsem šel s dalším
+7:56
+jazyk gupta sql windows
+8:01
+je v místnosti uživatel gupta sql windows ne ne, máte štěstí, bastardi
+8:08
+takže toto je editor kódu gupta sql Windows a ano, to je stromové zobrazení
+8:15
+a ano, to je editor, který byste upravili, takže je jako výrazná bílá
+8:20
+prostor, ale není to ve skutečnosti stromové zobrazení, takže můžete vložit vnořené
+8:26
+nebo vložte na stejné úrovni a to při uložení kódu
+8:32
+nebyl text, uložil váš zdrojový kód jako binární soubor
+8:37
+a pak to kompilátor zkompiloval do bajtkódu a pak ho vložil do an
+8:42
+spustitelný s hlavičkou a prostě to nebylo dobré
+8:47
+a tak jsem to nechal za sebou a přesunul se na síť, takže jdeme na to
+8:53
+uvidíme, jestli dokážeme udělat něco horšího než všechny tyto jazyky, s výjimkou cal, ale uvidíme, jestli se nám to podaří
+9:00
+špatné jako do cal, takže potřebujeme jméno pro náš jazyk a pěkná krátká jména, která jsou snadno
+9:06
+googleable jsou klíčovou věcí, když vytváříte programovací jazyk, takže to udělám
+9:11
+říkejte tomu bs, protože si to můžete vygooglovat a nebude to zmatek
+9:16
+lidé to zjistí a také programovací jazyky v dnešní době k tomu potřebujete slogany a marketing
+9:22
+všechny tyhle věci a tak slogan bs bude proč protože
+9:27
+to je důvod, proč to můžete překonat na nahrávce
+9:32
+takže nyní potřebujeme naše principy návrhu pro náš jazyk naše zásady návrhu bs a
+9:37
+mnoho jazyků se snaží vytvořit jámu úspěchu, snaží se usnadnit programátorovi udělat správnou věc
+9:44
+to nezní jako žádná legrace, chceme vytvořit jámu selhání
+9:49
+ve skutečnosti to není ani to nestačí Chci vytvořit nastražený aztécký chrám selhání ve svém
+9:57
+programovací jazyk, takový by měl být kódování v bs, měli byste se cítit jako harrison ford utíkající pryč
+10:04
+z obřího balvanu a pak narazit do hloučku lidí, kteří na vás míří šipkami s a
+10:10
+nacistický archeolog, nebudeme věřit programátorovi, že udělá jednoduché věci správně, jdeme
+10:16
+aby to bylo co nejtěžší, protože programátoři vědí, kdo programátorům věří
+10:22
+dělat cokoli nejsme k ničemu snadno se rozptylujeme trávíme polovinu času na twitteru
+10:27
+polovinu času hrajeme na něčem jiném, polovinu času hrajeme hry v prohlížeči a neumíme ani správně dělat zlomky
+10:34
+směšné, takže nebudeme věřit programátorovi, že udělá jednoduché věci správně, ale všechny ty opravdu složité věci necháme na
+10:41
+programátor, s nímž se musí vypořádat a ujistit se, že musí opravdu pracovat, aby se to rozběhlo
+10:48
+a měli bychom se zaměřit na co nejvíce věcí, takže některé programovací jazyky
+10:53
+pokud se podíváte na rez, tak rez specificky cílí na úroveň systémů
+10:58
+programování a pak to lidé zkoušejí a používají k jiným věcem, jako je tvorba webových stránek a rust team jsou jako proč
+11:04
+děláš, jsou tu další věci, použij node, dělej něco jiného, ​​ale ne
+11:10
+když se soustředíme jen na to, abychom dělali jednu věc dobře, pak bychom to mohli náhodou udělat, a tak to zkusíme udělat
+11:17
+vše, takže vyzkoušíme nízkoúrovňové systémy a vestavěný kód a bohatá grafická uživatelská rozhraní a webové stránky
+11:23
+a něco o webovém frameworku typu bs a internetu věcí a furbies a
+11:30
+vr a ar a metaverse a všechno ostatní tak
+11:35
+začneme, vezmeme si něco z jednoho ze stávajících programovacích jazyků, které budeme používat
+11:42
+to je naše základna, protože každý programovací jazyk od v podstatě prvního byl založen na jednom, který
+11:48
+přišel před tím, takže uh c byl založen na bb byl založen na aa byl založen na algolu
+11:55
+algol byl založen na fortranu, všechno se tak vrací, takže pokud to posuneme vpřed a půjdeme v pořádku, jsou to jazyky
+12:01
+které byly inspirovány c a tak dostaneme php
+12:08
+php je rekurzivní zkratka, která původně znamenala um [Hudba]
+12:13
+perl hypertextový preprocesor Všiml jsem si, že to znamenalo osobní domovskou stránku, protože ten chlápek se rozhodl napsat svou osobní
+12:20
+domovskou stránku a pak to znamenalo um osobní hypertextový procesor, ale teď
+12:26
+je to vlastně jedna z těch rekurzivních zkratek, která znamená php hates programers
+12:33
+protože to je jediné vysvětlení, které mě napadá pro php
+12:38
+hm, takže to, co si vezmeme z php, je totální nekonzistence php má zakřiknuté pouzdro a pouzdro na velblouda a hada
+12:46
+a pascal case a prostě všechny různé případy všechny různé způsoby vyjádření věcí, které budeme mít
+12:52
+nesmyslná předpona proměnných php všechny proměnné musí začínat dolarem, pokud vše musí začínat dolarem
+12:58
+proč něco musí začínat dolarem, budeme mít potíže s c a c plus plus, ale výkon
+13:04
+altair basic, o kterém víte, že pokud nejste starý, nebylo to dobré
+13:10
+takže začneme tady je náš starter bs program máme třídu, protože jsme
+13:15
+objektově orientovaný jazyk a máme konstrukci veřejné funkce podtržení podtržítka, protože tak to php dělá
+13:22
+jeho konstruktérům nebudeme předponovat naše proměnné symbolem dolaru, protože ano
+13:27
+evropský i po brexitu se stále považuji za Evropana, takže před naše proměnné dáme předponu
+13:34
+symbol eura a to má další výhodu v tom, že se na něm píše docela obtížně
+13:40
+většinu klávesnic, a tak to programátorům umožní pracovat pro ni, budeme používat symbol mínus větší než um
+13:48
+dereferencování vlastností a polí a členů uvnitř tříd, protože tečka, to je až příliš snadné kdo
+13:56
+chce napsat jeden znak, když můžete být nuceni napsat dva um a budeme mít složenou závorku
+14:02
+začněme složenými závorkami a středníky rozmyslíme si, jestli si ty um a pro provázek chceme nechat
+14:08
+zřetězení budeme používat spíše čárky než znaménko plus, protože
+14:14
+ano, protože jsme tak ano, tady jsou naše klíče
+14:19
+rozdíly máme podtržítko podtržítko konstrukt máme uh
+14:24
+mínus šipka dereferencování a máme čárky pro zřetězení řetězců a máme naše oh
+14:31
+a dvojtečku máme i pro statické metody, takže to je dobrý začátek, co jiného můžeme
+14:38
+podívejme se na python, takže všichni pythonští programátoři v místnosti
+14:45
+je to python, víte, že je to nyní nejpopulárnější programovací jazyk na světě a existuje důvod, proč je to python
+14:52
+je vlastně obecně uh velmi dobrý a velmi rozumný kromě tohoto
+14:58
+věc, toto je nějaký nefunkční kód pythonu, uh, toto zahodí chybu, která říká neplatná konstanta, když se ji pokusíte spustit
+15:04
+zde je opravená verze stejného kódu, co bylo špatně s kódem vlevo
+15:13
+měl směs tabulátorů a mezer pro odsazení
+15:19
+což nevím, proč se to stalo, otevřel jsem to v editoru a přidal jsem nějaký kód
+15:25
+a já jo, nějak to karta našla cestu tam, takže od
+15:30
+python, zabereme značné bílé místo a abychom byli spravedliví, že si nevybíráme jen python tady
+15:36
+jsou další významné jazyky bílého prostoru jako f sharp a haskell a ocam a
+15:41
+pravděpodobně jiní coffeescript co se stalo s coffeescriptem, měl jsem rád coffeescript i přes významné
+15:48
+bílé místo, takže v bs budeme používat významné mezery, takže je to zjednodušené
+15:53
+bs docela hodně tady máme náš třídní pozdrav a a naši veřejnou funkci tvoří a
+16:00
+budeme používat dvě mezery pro odsazení, ale pokud odsazujete čtyři mezery
+16:06
+pak použijete tabulátor, pokud odsazujete o šest mezer, pak použijete tabulátor a dvě mezery a pokud odsazujete o a tak
+16:13
+dále a tak dále a tak dále, takže pojďme mluvit o tom, jak to uděláme
+16:19
+komentáře pak, protože komentáře můžete mít řádkové komentáře, můžete mít blokované komentáře, můžete mít nejrůznější komentáře a vy
+16:24
+potřebujete komentáře v kódu, aby lidé věděli, co se děje a proč jste se rozhodli a tak v bs
+16:31
+protože buď používáte tabulátor a dvě mezery nebo dvě mezery nebo nějakou jejich kombinaci
+16:36
+a tak v bs libovolný řádek, který začíná počtem mezer, kterým je modulo dva
+16:45
+jeden bude považován za komentář, takže pokud řádek začnete tabulátorem a a
+16:50
+jedna mezera nebo tabulátor ve třech mezerách nebo jen se sedmi mezerami, pak je vše za tím komentářem
+16:57
+tak tady to je, to je komentář, ale také potřebujete tak c uh c a c plus
+17:05
+mít lomítko hvězda a hvězda lomítko začít a začít komentář, a tak pokud vy
+17:10
+použijte tabulátor a poté mezerník tabulátor na prázdném řádku a poté se okomentuje
+17:15
+vše mezi těmito dvěma věcmi, takže veřejná funkce je ve skutečnosti okomentována
+17:27
+pokud k úpravě kódu bs používáte schválený editor bs
+17:32
+tři tisíce liber ročně od mé společnosti, které pak lehce zešednou, takže budete vědět, že to bylo
+17:38
+komentoval další věc, kterou zjevně budeme muset přinést, je společná pro všechny
+17:46
+programovacích jazyků a je samozřejmě null
+17:51
+každý jazyk, zapomněl jsem, že to byl alan kaye
+17:56
+pracoval na projektu small talk a zavolal ehm, označil svou miliardovou chybu za nulovou a myslím, že je to tak
+18:03
+Pravděpodobně je to podcenění, myslím, že už jsme pravděpodobně někde nahoře kolem bilionu
+18:08
+každý jazyk má někdy null a nic a nedefinováno a data a prázdné a nulové a
+18:15
+víš, javascript má asi osm různých věcí, které všechny znamenají null, takže je jasné, že to budeme mít
+18:21
+uh, což znamená, že budeme muset zkontrolovat nuly v okolí a
+18:27
+hm, existuje jeden jazyk, kde když něco kontrolujete a potenciálně vyvoláváte výjimky, tak to dělá
+18:34
+je to tak trochu odlišné od každého jiného jazyka a ten jazyk je rubínový
+18:40
+protože ruby ​​v každém jeho kódu by měl vypadat
+18:45
+napsal jsi větu a měla by být čitelná a měla by dělat programátorům radost a tak z nějakého důvodu
+18:50
+matt se rozhodl, že to znamená vložit klíčové slovo if, které bylo
+18:55
+alternativa ke klíčovému slovu if so namísto toho, aby bylo řečeno, zda jsou povoleny formáty
+19:01
+nezahrnuje formát zvýšit neplatný formát říkáte zvýšit neplatný formát
+19:06
+pokud tomu tak není, vznesete výjimku, pokud není vše v pořádku, což je jako když sem běžím a
+19:12
+jít všichni, vypadněte, pokud tam není oheň, je to špatná cesta, já proč
+19:20
+proč bys to dělal, nerozumím tomu, tak to dávám ve svém jazyce, je to skvělé, nebudeme to mít, pokud
+19:26
+vůbec, takže ruby ​​má, pokud bs nebude mít, pokud budeme mít, pokud
+19:33
+také budeme mít jednu výjimku a poté necháme na programátorovi, aby analyzoval stopu zásobníku
+19:40
+a jádrový výpis, abychom zjistili, co se vlastně pokazilo, že výjimka se bude nazývat zastavení a vzplanutí a to je
+19:48
+klíčové slovo a to jen vyvolá výjimku, je to v podstatě jako panika
+19:53
+ale mnohem dramatičtější, takže řekneme halton vzplanout a pak
+19:58
+odsazení na lince poté, co zjevně musíte vyjít ven, po zastavení se promáčknete a vzplanete
+20:03
+a řekni, pokud se jméno nerovná null um, a tak s teď máme výjimky a
+20:09
+zpracování výjimek naše další funkce nepochází z programování
+20:15
+jazyk vůbec pochází ze skutečného jazyka, existuje někdo z Řecka
+20:21
+nebo kdo umí řecky nebo mluví řecky, tak tohle
+20:27
+je řecký otazník, ne středník, je to otazník
+20:35
+to je řecký středník um doslova unicode, protože řecký
+20:40
+otazník vypadá tolik jako středník, že unicode automaticky mapuje kód řeckého otazníku
+20:47
+bez ohledu na středník je ze stejné znakové sady, a tak v bs, pokud
+20:53
+výroky musí končit řeckým otazníkem, nikoli středníkem stupněm otazníku a
+20:59
+budeme prodávat klávesnice se speciální klávesou, která má na sobě řecký otazník a dáme ji hned vedle středníku a vy prostě musíte
+21:07
+zapamatujte si, který z nich je který, takže dalším jazykem, který budeme používat
+21:12
+věci z javascriptu a buďme upřímní, existuje spousta věcí, které bychom mohli vzít z javascriptu jako celku
+21:18
+prototypový systém založený na třídách a spravedlivý
+21:24
+mít pouze čísla s pohyblivou řádovou čárkou, což by bylo dobré, ale co si vezmeme z javascriptu
+21:31
+je to tak v javascriptu
+21:36
+prázdný řetězec se nerovná řetězci 0, ale 0 se rovná prázdnému řetězci a
+21:44
+nula se rovná řetězci nula, takže jo, počítejte, že jedna z false se rovná
+21:50
+undefined false nerovná se undefined a false nerovná se null, ale null se rovná undefined a to se vrátí
+21:56
+jako pravý javascript má typ donucení um and
+22:01
+pokud k porovnání použijete double equals nebo bang equals, pak javascript bude
+22:07
+udělejte co nejlépe, aby to, co děláte, byla pravda, a to jen proto, že je to jako dobře
+22:13
+programátoři chtějí, aby věci byly pravdivé jsme hledači pravdy Měl bych uvést co nejvíce věcí na pravou míru Měl bych
+22:19
+skákat přes obruče, aby se věci staly pravdou, takže to budeme mít také, ale vezmeme to o stupínek výš a
+22:25
+budeme říkat, že nula se rovná prázdnému řetězci a nula se rovná nule jako řetězec a také
+22:31
+nula se rovná slovu nula v řetězci a 22 děleno sedmi se rovná emotikonu
+22:37
+pro pí um
+22:43
+takže javascript uh, protože lidé tak trochu šli, to mi nepomáhá, potřebuji
+22:50
+skutečně víte, zda jsou dvě věci stejné nebo ne, prosím, prosím, můžeme to vypnout
+22:55
+ale problém s javascriptem je ten, že to nemůžete opravit, protože tam jsou desítky miliard řádků kódu
+23:01
+tam na webových stránkách a některé z nich nebyly aktualizovány od roku 1996
+23:06
+a tak nemůžete opravit javascript a tak šli v pořádku přidáme, takže pokud vy
+23:11
+použijte rovná se rovná se, pak to udělá striktní rovnost, a tak nic z toho
+23:16
+věci, pak to řádně projdete, a proto také provedeme přísnou kontrolu rovnosti, pokud nechcete typ nátlaku, ale spíše než
+23:24
+říkat uh rovná se rovná se rovná se nám prostě udělá radost
+23:29
+operátor rovná se důležitý tím, že za něj vložíte vykřičník, takže bang rovná se prásk
+23:36
+znamená přísný nerovná se tomu říkám operátor nákupního vozíku
+23:44
+takže pokud chcete provést přísnou kontrolu rovnosti, musíte přísnou nerovnost negovat
+23:51
+operátor, takže přísný operátor rovnosti je bang bang rovná se bang, kterému říkám
+23:57
+osoba na hoverboardu tlačí operátora nákupního vozíku
+24:02
+dobře, pojďme mluvit o řetězcích, takže uh řetězců, máme více formátů
+24:10
+pro řetězce máme ascii a ansi a uh unicode a unicode rozdělené na
+24:16
+utf-8 a utf-16 a utf-32 nikdo už nepoužívá utf-32, Windows už nepoužívají utf-16
+24:23
+interně pro všechno kromě webu dnes většina programovacích jazyků používá utf-8
+24:29
+řekněme, že utf-8 tak jde řetězce a řetězce python, myslím, že nyní jsou utf-8 a tak jsme
+24:35
+vypořádat se s utf-8, pokud jsme skutečně nenačetli knihovnu, abychom udělali něco jinak, ale chci být schopen vyrovnat se se všemi druhy řetězců, takže pokud
+24:42
+mít řetězcový literál, který je enco uzavřen v jednoduchých uvozovkách, což je řetězec ASCII, pokud jej uzavřete do párů
+24:48
+jednoduchých uvozovek, což je řetězec ansi, pokud jej uzavřete do dvojitých uvozovek, pak je to řetězec dbcs, pokud jej uzavřete do
+24:56
+dvojice dvojitých uvozovek, pak je to řetězec ebcdic, který je důležitý, protože chceme být schopni spouštět bs na ibm
+25:03
+sálové počítače, protože cobol nahradíme bs, protože ty jsou jediné
+25:11
+lidé na světě, kteří se podívají na tento jazyk a půjdou, ano, to je lepší
+25:18
+pokud svůj řetězec uzavřete do toho, co já jako Angličan považuji za francouzštinu
+25:23
+uvozovky, pak je to kódovaný řetězec utf-256, takže utf-256 používá 256 bitů
+25:33
+pro ev je to 256bitové číslo pro každý znak v abecedě a toto je
+25:39
+skvělé, protože unicode um utf-8 používá toto kódování s proměnnou délkou ut některých z nich
+25:45
+jsou něco jako jeden bajt a některé z nich jsou čtyři bajty, ehm, s tím půjdeme do pekla
+25:51
+použijte 16 bajtů pro každou, je to 16 nebo 32, nemůžu dělat matematiku, ať je to cokoliv
+25:58
+budeme používat 256, ale nikdy nám nedojde adresní prostor pro znaky
+26:04
+bez ohledu na to, protože to nám ve skutečnosti umožňuje mít charakter pro každou subatomární částici ve sluneční soustavě
+26:11
+to je hodně postav a já udělám webovou stránku, kam můžete nahrát jakýkoli zatracený obrázek, který se vám líbí, a já to udělám
+26:17
+vrátit vám kódování utf-256 a pak ho můžete použít v řetězci a pak všechny programy na světě
+26:24
+budu muset přijít na můj webový server a stáhnout si postavu pro tu věc z youtube 256
+26:29
+[Hudba] pokud svůj řetězec uzavřete do párů francouzských uvozovek, pak je to utf-256, ale s
+26:38
+řetězcová interpolace Řetězcová interpolace není možná u žádného z ostatních typů řetězců
+26:45
+protože q vizuální základní šest v tomto případě ale
+26:51
+víte, že to bylo, že na začátku vizuálních základních polí bylo mnoho věcí, které se vám líbí
+26:57
+na jednom, pokud jste něco neudělali někde na jednom místě v programu a pak najednou všechna pole
+27:02
+celý program začínal na nule a bylo zábavné, když někdo tuto změnu zkontroloval
+27:08
+ale žádný vizuální základ pro zvýšení platu nerozhodl, že hranaté závorky by mohly být málo
+27:16
+pro programátory Visual Basic bylo trochu těžké najít na svých klávesnicích, kde věděli, kde jsou kulaté závorky, každý ví
+27:22
+kde jsou kulaté závorky, takže použijme kulaté závorky také pro pole a indexování polí
+27:27
+takže to je to, jak Visual Basic dělá věci, takže říkáme dim f round závorky 10 as
+27:34
+celé číslo a později uvidíte, že se něco děje f1 a jste něco jako voláte funkci f a
+27:40
+absolvování jednoho nebo získáváte první věc z toho pole f také vizuální základy
+27:46
+výchozí celočíselný typ, přestože se jedná o 32bitový jazyk nebo 32bitový kompilátor
+27:53
+16bitová celá čísla, takže pokud jste chtěli 32bitové celé číslo, museli jste použít dlouhé a
+27:58
+pokud jste chtěli 64bitové celé číslo, museli jste napsat doplněk com v c plus plus
+28:04
+takže děláme, že se nám líbí, že budeme mít kulaté závorky pro naše um pro naše indexy pole a také naše
+28:12
+celá čísla budou jen 17bitová, protože jsme koupili akcie všech společností zabývajících se paměťmi a tak
+28:19
+nezajímá nás těch dalších 15 bitů, které zbývají
+28:24
+prázdné, protože to jen nutí lidi kupovat si více paměti a díky tomu roste hodnota našich akcií, to je skvělé
+28:33
+c a c plus plus jsem viděl programování svou první svou první práci
+28:38
+hm, bylo to na pracovním školení, bylo to jako učňovská škola a objevil jsem se první den a dali mi kopii
+28:44
+Kernighana a Ritchieho programovací knihy a řekli, že to propracujte na
+28:49
+ten terminál tam, tak jsem si v tu chvíli sedl
+28:56
+a název souboru a ten ho za vás jen vytvoří sorry vi hello dot c
+29:02
+a pak jsem se pokusil začít psát a byl tam malý půlkruh všech ostatních programátorů, kteří tam byli
+29:07
+trochu déle stát kolem mě a jít hej, právě se to naučil vi takže ano
+29:13
+ale ehm c měl tuto skvělou vlastnost zvanou makra
+29:19
+což bylo v podstatě jen nahrazení řetězce kódem a v té době existovalo velké víte, svaté
+29:26
+válka tak jako vi versus emacs a net versus java a um a všechny tyto různé věci, které znáte, uh
+29:33
+reagovat versus angular v době, kdy to bylo c versus pascal věř tomu nebo ne pascal
+29:38
+byl skutečně považován za životaschopný programovací jazyk již v roce 1989 a
+29:44
+že jeden z argumentů, které měli lidé z c, byl ten, že c je lepší, protože můžete deklarovat několik maker na
+29:51
+Spusťte váš program c a pak by kompiloval kód pascal, ale nebylo možné nic udělat, aby se pascal vytvořil
+29:57
+to zkompilovat c kód a podobně se mi líbí, co jsi udělal
+30:03
+ale to není dobrý argument, ale mám rád makra, protože dokážou udělat překvapivé věci, takže budeme mít
+30:09
+makra v moderních jazycích bs um jako rez pro
+30:14
+mají například to, čemu se říká hygienická makra, takže jsou to skutečné malé procesy, které běží
+30:20
+uvnitř kompilátoru a může dělat inteligentní věci a líbí se mi ta myšlenka, že můžu dělat něco trochu víc
+30:26
+inteligentní než jen základní substituce strun a ve skutečnosti už existuje fantastický způsob, jak udělat víc
+30:33
+komplexní substituce řetězců, takže budu používat pouze regulární výrazy
+30:38
+makra v bs jsou regulární cokoliv, co můžete vyjádřit regulárním výrazem vy
+30:43
+se může změnit na makro v bs a specifická syntaxe regulárního výrazu je
+30:49
+ten, který používáte ve vi nebo vim pro vyhledávání a nahrazování, takže když sloupec procent s lomíte, něco lomíte
+30:56
+něco jiného lomítko g tohle je to samé tady, takže jsem to definoval a pak zachytil
+31:02
+skupina a pak věc a máte mrkev na začátku a dvojtečku na konci
+31:08
+a pak dolar říct konec řetězce, takže to bude odpovídat celému řetězci a pak to nahradí třídou a pak čímkoli
+31:15
+zachycené v této skupině, takže nyní v mém kódu, když píšu svou uvítací věc dvojtečku toto
+31:21
+makro se objeví a nahradí to a změní to na uvítací prvek třídy
+31:29
+ty se nebavíš tak ano protože protože co by mohl
+31:36
+možná se to pokazí, takže v některých věcech si nejsem úplně jistý
+31:41
+Stále o nich přemýšlím prostřednictvím statického nebo dynamického psaní, tedy statického typu
+31:46
+Osobně preferuji staticky typovaný jazyk, jsem vývojář c-sharp um a
+31:52
+Uh, přicházejí další jazyky a já se na ně dívám a jdu dělat, pořád chci být ano
+31:58
+ne, jsem v pořádku, protože c ostré je skvělé a je to tam staticky napsané
+32:03
+jsou chvíle, kdy to může být trochu nepříjemné a vy si tak nějak myslíte, že bych si přál, aby to bylo dynamické, a pak vy
+32:09
+skutečně použít c ostré dynamické klíčové slovo a jdete ne, já nevím, ale
+32:14
+uh tak jo, je toho hodně, co se dá říct o statickém psaní, hodně se toho dá říct o dynamickém psaní velmi rychlé prototypování velmi snadné testem
+32:21
+vývoj v dynamicky psaném jazyce, protože můžete, můžete
+32:27
+doslova nejprve napiš test a poběží ve staticky napsaném jazyce, pokud nejprve napíšeš test a
+32:32
+nenapsal jsi nic z implementace to prostě půjde já nekompiluji um takže ano
+32:38
+takže víte, že je to šest z jednoho půl tuctu druhého a pak jsem zjistil, že existuje
+32:44
+věc zvaná postupné psaní, které facebook um používá ve svém toku programovacího jazyka a vlastně
+32:51
+typescript to původně dělal, bylo to volitelné, takže jste mohli vložit nápovědu k typu
+32:57
+python to má nyní stejně jako jako 3.8, myslím, že python má tipy na typy, takže vy
+33:02
+nemusíte, ale můžete tam vložit nápovědu k typu, abyste řekli tuto proměnnou
+33:08
+měl by to být řetězec nebo by to mělo být celé číslo nebo by to mělo být něco a tak jo, facebook a flow má tohle a
+33:15
+takže uděláme to postupné psaní v bs, zavedeme nové klíčové slovo je pravděpodobně uh
+33:25
+a protože víte, že je to dvojtečka, která může znamenat cokoliv, tak budeme mít
+33:30
+pravděpodobně uděláme i lokalizované verze tohoto, takže uděláme norskou verzi s jakýmkoli
+33:36
+norština pro is pravděpodobně uh is bude tam také um gramatika
+33:42
+je velmi důležité a v anglickém jazyce máme dva neurčité členy a a an a používáme a když slovo
+33:50
+poté, co začíná samohláskou nebo h, pokud jste velmi nóbl um, a tak to bude gramatika
+33:58
+kontrola také, a tak říkáte, že je pravděpodobně řetězec, ale pravděpodobně je to celé číslo
+34:03
+a pokud to uděláte špatně, bude to chyba kompilátoru, ale bude to říkat neplatná konstanta
+34:14
+skript nebo zkompilovaný, takže víte, že se mi ten nápad docela líbí
+34:19
+skriptovací jazyky, protože vás nutí poslat svůj zdrojový kód a pak se na něj může kdokoli, kdo chce, podívat a zjistit, jak je hrozný, ale zkompilovaný
+34:27
+je také dobré, protože pokud kód zkompilujete, bude mnohem obtížnější zjistit, proč skutečně běží
+34:33
+pomalu, což je samozřejmě proto, že jsme za x dali nula až milion nop
+34:40
+ve strojovém kódu, který byl vydán, nebo můžeme provést polokompilaci, takže mnoho jazyků je polokompilováno jako c-sharp
+34:47
+a java se například zkompiluje do mezilehlého bajtového kódu a pak jej odešlete a pak se zkompiluje jit um
+34:54
+a tak uh, půjdeme na tu polokompilovanou věc, vygenerujeme tento přechodný kód, ale my
+35:02
+měli byste se také ujistit, že se to zkompiluje do ecmascriptu 3, aby lidé mohli psát věci, které stále běží na internetu
+35:07
+explorer 6, protože se tam stále dostává um
+35:13
+kolikrát to vidíte, že se díváte na zprávy, zejména na nemocnice, to je děsivá věc a někdo je vyslýchán a vy
+35:19
+podívej se za ně a jdeš to je windows xp, proč máš windows xp ve své nemocnici
+35:25
+proč co děláš správu paměti um mám rád odpadky
+35:30
+shromážděné jazyky dělají život příjemným a snadným, stačí vytvořit věci, a když s nimi skončíte, jsou tu
+35:35
+automatizovaný proces, který přichází a odchází, už ho nepoužíváte, zbavím se toho za vás
+35:41
+a uklidit za sebou um, když jsem pět let pracoval v c, kde jsi musel
+35:47
+malloc paměť, kterou jste chtěli, a pak do ní vložte text a pak ji nezapomeňte uvolnit
+35:52
+znovu později, jinak šlo všechno do háje a opravdu skvělá věc s tím
+35:59
+c dokonce v roce 1991 existovala věc zvaná lindt, která dokázala přeběhnout váš kód c a poukázala na
+36:07
+když jsi se zablokoval a nezdálo se, že bys to nikam osvobodil a
+36:12
+máte rádi, když to můžete udělat v lint, proč to neuděláte v králi
+36:17
+kompilátor usnadnit mi život rz má tohle
+36:22
+celá věc, která se děje pouze s jednou věcí, může vlastnit proměnnou, což je noční můra
+36:30
+jsou dvě věci, takže z rzi se v tomhle mimochodem nic nebere, protože hm rez
+36:36
+je to velmi blízko k dokonalému jazyku um a rez je uh
+36:42
+půjčit si dámu a doživotní dámu a všechny tyhle věci, které velmi ztěžují život
+36:48
+ale důvod, proč velmi ztěžují život, je ten, že věci, o které se snažíte, jsou opravdu špatné a
+36:53
+neměli byste je dělat a mají potenciál způsobit selhání vašeho programu a dělat neočekávané věci
+37:00
+a rez to ví, a tak vám rez nedovolí dělat tyto věci, ale
+37:05
+pokud jste nezkusili rez, tak to chytněte a projděte si prvních pár kapitol knihy rez a udělejte to
+37:11
+něco není v pořádku, protože chybové zprávy v rezu je jako objetí
+37:17
+z kompilátorů jsou tam, udělali jste maximum ano ano ne vidíte
+37:22
+tady vidíte, kde jste to udělali, nemůžete to udělat ne ne, je to špatné ne
+37:28
+co pravděpodobně chcete udělat, je to, že vás to naučí rezat zuby kompilátoru, je to krásné
+37:34
+takže jo, to neděláme, rozhodně naše chybové zprávy budou peklo, do kterého budeme nutit naše programátory
+37:40
+osvobodit vše, nechystají je zablokovat, nebudou vědět, že je přidělili, my jsme jen
+37:46
+uvolníme je, použijeme delete a delete bude začínat velkým písmenem na rozdíl od všech ostatních
+37:51
+jiné klíčové slovo, protože delete je důležité, nechcete prosakovat paměť a musíte smazat vše, pokud
+37:57
+pokud jste použili proměnnou, musíte ji smazat, aby nedošlo k předání odkazem, takže
+38:03
+parametr name, který byl předán do našeho konstruktu zde, který je kopií parametru name, ať jste kdekoli
+38:09
+od takže nyní vlastníte tuto proměnnou názvu zde, takže ji musíte smazat, když vaše funkce skončí
+38:15
+parametry, které jste vzali do jakýchkoli proměnných, které jste vytvořili, jediná věc, kterou neodstraníte, je, pokud vaše funkce něco vrátí
+38:20
+pak vlastně vím, že to musíte také smazat, protože když to vrátí, udělá to kopii a pak věc, která volala funkci, bude vlastnit
+38:26
+to a tak po příkazu return musíte smazat proměnnou, kterou jste právě vrátili, bude to skvělé, co by mohlo
+38:33
+možná pokazit všechno, co je bodové smyčky
+38:38
+Jsem velký velký velký velký zastánce zásady, že pokud je to rozbité
+38:45
+neměli byste to opravovat a pokud to není rozbité, měli byste to opravit, dokud se nerozbije a pak utéct
+38:52
+najměte si mě, ale ne, jsou tam čtyři smyčky
+38:57
+existují smyčky while jsou čtyři smyčky dosahu existují iterátory, které existují smyčky while tam jsou všechny různé
+39:03
+způsoby, jak dělat smyčky, ale všichni víme, že nejlepší způsob, jak dělat smyčky
+39:11
+takže moderní jazyky c has go to c ostré has go to vlastně používám go to v c
+39:16
+ostré um ne moc ale
+39:22
+znáte to, když máte metodu try v c ostré a má to ven
+39:27
+a uděláte spoustu věcí, abyste zjistili, zda můžete nastavit tuto proměnnou, a pak vrátíte true nebo
+39:33
+tuto proměnnou nastavíte na výchozí hodnotu a vrátíte false a
+39:39
+pokud existují tři nebo čtyři různé způsoby, jak to může selhat, nechcete to opakovat
+39:44
+nastavte jej na výchozí hodnotu a vraťte hodnotu false, takže jej vložíte na výchozí hodnotu a vrátíte hodnotu false na konec
+39:51
+vaše funkce c ostré a umístíte na ni štítek se selháním, takže dvojtečka selže a pak jako
+39:57
+procházíš tím, jen jdi jít do selhání jít do selhání jít do selhání a pak těsně předtím, než selžeš, nastavíš to na to, co by mělo být na oplátku přes to
+40:04
+a na tom není nic špatného a lidé jdou, do svého kódu jste vložili goto, lidé to mají doslova jako um
+40:11
+jako analyzátory síťového kódu, které napsali s roslynem, jen aby hledali slovo jít do prostě jít ah, jsi špatný
+40:17
+a ty jsi něco jako ne, já nejsem, protože to tam je a pokud to tam je, mělo by ti být dovoleno to používat
+40:23
+ab napsat nějaký kód, který nepoužívá go to a pak se jít podívat na meziprodukt
+40:29
+jazyk, který je generován z toho, co najdete v gotos všude, takže je vkládám do svého kódu
+40:36
+ale nebudeme mít štítky, budeme mít čísla řádků, budeme mít pouze čísla řádků, i když pro řádky, které budete
+40:42
+protože jaký má smysl mít čísla řádků pro cokoli jiného a protože jsem velkým fanouškem linie douglase adamse
+40:48
+čísla musí být násobkem 42 uh, takže máte řádek 42 a další řádek, na který chcete přejít, bude
+40:54
+být řádek 84 a my půjdeme nahoru takhle a oni musí být postupně
+41:00
+zvýšení a o 42 pokaždé během celého vašeho programu, takže pokud potřebujete zavést nový v polovině
+41:06
+budete muset ručně přečíslovat všechny řádky, pod kterými prodáme, prodáme refaktorovací nástroj, který
+41:12
+udělejte to pro vás dvacet tisíc dolarů, takže řekněme 42
+41:18
+echo věc uh a cokoli jiného a pak přejděte na 42, pokud
+41:25
+uh, snížené časy jsou přesně stejné, jako vaše bang bang rovná se bang
+41:31
+operátor na nulu, takže tento řetězec vytiskne tolikrát, kolikrát um
+41:38
+děsivá věc, kterou jsem si uvědomil, když jsem psal tento příklad kódu, je
+41:43
+můžete napsat kompilátor, který by to udělal, že to, co by potenciálně fungovalo, prosím nedělejte
+41:50
+prosím, mluvil jsem o tom na buildech v roce 2014 a a
+41:55
+dvě různé skupiny lidí odešly a spustily github repos Byl jsem tak nějak ne ne ne ne, jsou mnohem lepší nebo
+42:03
+horší věci, které byste mohli dělat se svým časem, takže moderní programovací jazyky máme vícejádrové procesory, které nyní máme
+42:09
+můj domácí počítač má 16 jader a každé z nich je hypervlákno, takže je to 32 logických volání v mém
+42:17
+stroj, takže musíme podporovat paralelismus, musíme být schopni paralelizovat úlohy, aby mohly běžet co nejrychleji, což znamená, že musíme
+42:24
+dělat vlákna um a existuje spousta různých způsobů, jak to jít, rutiny a tam jsou vlákna továrny na vlákna
+42:31
+uh byla to pracovní položka uživatele threadpool.q a všechno
+42:37
+tyto druhy věcí a já jsem se snažil přemýšlet, jak mohu přinést závitování do bs
+42:43
+a myslel jsem si, že dobře znáte základní lidi, kteří mají rádi slova pro věci, jako je spousta klíčových slov a podobně, takže pojďme
+42:49
+udělejte něco, abyste potěšili základní lidi, takže pokud chcete, aby dva kusy kódu běžely současně v bs, stačí
+42:58
+řekněte udělejte toto a toto a spustí se oba tyto řádky kódu
+43:03
+zároveň tak to poběží ahoj a sbohem zároveň kdo ví
+43:08
+který z nich skončí jako první, je neurčité, protože by to tak mělo být, a to je to, co dává smysl
+43:14
+to je úplně v pořádku problém s tímto způsobem vytváření vláken, za které jsem nyní ženatý
+43:20
+um a ii nemohou uvažovat o jiném způsobu vytváření vláken, protože to není dynamické
+43:27
+takže pokud dostanu pole něčeho a chci spustit operaci na každém prvku
+43:32
+v tomto poli a chci to udělat vícevláknovým způsobem, jako je paralelní. 4 nebo
+43:37
+paralelně.4 každý v ostrém um neexistuje žádný způsob, jak to udělat, protože je to i to má dělat a a a a a
+43:45
+a tak jsem si lámal hlavu a říkal jsem si, že to musí mít řešení
+43:51
+a pak jsem si uvědomil, že existuje hrozný jazyk z dávné minulosti v mlhách času, který jsem neznal
+43:58
+cokoli z toho, co bylo čtvrté čtvrté, bylo opravdu
+44:05
+divný jazyk v 50. letech, myslím, že pochází čtvrtý
+44:10
+a čtvrtý byl první jazyk, který měl výuku hodnocení
+44:16
+takže ve čtvrtém můžete napsat nějaký kód do řetězce a pak říct čtvrtému
+44:22
+zkompilujte to a spusťte to dynamicky za běhu a vlastně ještě v mnoha jazycích
+44:27
+víte, že to můžete udělat v c ostré s uh pomocí kompilátoru rosalind, můžete vygenerovat sestavení v paměti a spustit
+44:33
+je to za běhu a s tím javascriptem můžete dělat skvělé a chytré věci
+44:40
+json javascript objektová notace Původní myšlenka s json byla, že to nebyl jen objektový formát, ale také
+44:47
+platný javascript, takže stačí říct eval řetězec a stane se z něj
+44:52
+objekt v paměti a lidé odešli, to je génius a ostatní lidé odešli, takže když do toho řetězce vložím funkci,
+44:59
+můžu si na vašem počítači dělat v podstatě co chci, a lidé, kteří vynalezli Jasona, když ne, jsou špatní
+45:04
+lidé na světě, kteří to znali, ale ne, takže přivedeme eval
+45:10
+for for bs lang a tak, pokud chci něco dělat dynamicky s vlákny, tak můžu
+45:17
+vytvořit řetězec a tak to proberu, takže začneme
+45:24
+s i jako -1 oh postupné psaní věc, pokud věc
+45:30
+předáváte je pole, pak neříkejte jako závorka řetězce
+45:37
+říkáte, že věci jsou pravděpodobně řetězce nebo ekvivalentní množné číslo
+45:43
+konjugace být v příslušném jazyce, takže říkáme i mínus jedna a my
+45:48
+vytvořte prázdný uh, což je řetězec ASCII
+45:54
+ne, je to ansi řetězec, ať je to cokoliv, a pak řekneme řádek 42, na který jdeme
+46:00
+uh nastavit vlákna k provedení hm uh jinak nastavíme vlákna a budeme
+46:08
+připojit um a k vláknům, pokud i
+46:14
+se rovná jedné oh, zapomněl jsem se zmínit dříve
+46:21
+ano, pole vizuálních základů začala u většiny ostatních programovacích jazyků
+46:26
+pole začínají na nule bs lang pole začínají na mínus jedna a pak jdou dolů
+46:33
+protože mohou a je to vlastně rozložené pozpátku v paměti uh, což potěší všechny javy
+46:39
+lidé s jejich velkými endianskými celými čísly, takže ano, takže začínáme na mínus jedna
+46:46
+toto vlákno 42 vláken je toto jiné vlákna je to
+46:51
+um a pokud ano, říkáme, pokud se i nerovná mínus 1, udělejte řádek
+46:57
+výše jinak proveďte řádek, který začíná 42. to je obrácený příkaz if pomocí
+47:03
+pokud tam není ruby, to je tak hloupé, pokud to není v pořádku, pak přidáme řádek, který říká
+47:12
+věci, které máme aktuálně v řetězci a pak jdeme na 42
+47:17
+pokud záporné a méně dekrementované i je menší než délka věcí
+47:24
+délka oh méně než mínus délka věcí, takže navzdory skutečnosti, že pole začínají na mínus jedna a pak klesnou, když
+47:32
+zavoláte len na pole, vrátí kladné číslo a ve skutečnosti je to v pořádku, protože jsme
+47:37
+všichni jsou úplně zvyklí na to, že když dostaneme délku pole v
+47:42
+jakýkoli programovací jazyk kromě Visual Basic, abych byl spravedlivý, bude to o jeden více než nejvyšší index
+47:49
+v tomto poli, takže pokud se dostanete nahoru, bude to o jednu méně, takže ano
+47:55
+pak je tu statická metoda, která je ve všech ne existuje metoda se všemi velkými písmeny
+48:01
+na typu řetězce v bslang nazvaném vyhodnotit, což způsobí jeho spuštění
+48:07
+a pak musíme smazat vlákna a já samozřejmě, protože jsme s nimi skončili
+48:13
+nechtělo by se ti chodit každý den do práce a vědět, že budeš pracovat s tímto jazykem?
+48:19
+neudělalo by tě to šťastným ne, slušelo by ti to
+48:24
+um, toto je poslední položka, na kterou mě dylan beatty včera upozornil
+48:31
+v jděte tak v každém jiném jazyce a jděte
+48:37
+dělá věci jinak a jsem si docela jistý, že je to jen proto
+48:42
+jsou to parchanti, právě přidali generika v go 1.18
+48:48
+konečně poté, co jsem řekl, že generika dělají věci příliš složitými na věky, pište totéž
+48:53
+funkce znovu a znovu a znovu pro každý možný typ tohoto pole
+48:59
+přidali generika, ale pro parametry generického typu a a
+49:04
+zadejte argumenty, nejsou to lomené závorky, jsou to hranaté závorky, které také používají pro pole
+49:10
+indexer zřejmě nemůžete použít lomené závorky, protože jsou také menší než a
+49:15
+větší než operátor, takže pokud přiřazujete dvě proměnné, uh, když řeknete, že čárka b se rovná a pak
+49:21
+máte tyto věci, které musíte, aby si kolemjdoucí musel přečíst dopředu, aby zjistil, co se děje
+49:29
+tak správně, aby kolemjdoucí četl dopředu, aby zjistil, co se děje, co je s vámi špatně, není to jako
+49:35
+passer má na práci lepší věci než číst můj kód, ale stejně to dělají, ale jde to
+49:41
+uh zpracování data, zda chcete formátovat datum nebo předat datum, takže pokud chceme formátovat datum, můžeme předat
+49:47
+explicitní řetězec obvykle malá písmena yyyy velká písmena m za měsíc a máte
+49:53
+mm, pokud to chcete vytisknout se dvěma číslicemi a pak mmm uděláte jako jan feb mar a mmm, vytiskneme to celé
+50:01
+věc dd pro den hh na 12 hodin velké hh na 24
+50:07
+hodiny malá písmena mm pro minuty malá písmena ss pro sekundy malá písmena fff
+50:12
+pro zlomky každý programovací jazyk na světě
+50:18
+používá to, pokud mohu říct, je to takhle, není to standard iso, ne jako formát data iso, ale je to
+50:25
+v podstatě standardní go nechodí používá leden 22. 2006
+50:33
+tři minuty po čtvrté a pět sekund horského času
+50:40
+tak sedm hodin za gmt, že je magické datum a tak nicméně
+50:47
+chcete formátovat své datum, zapište to datum v tomto formátu a pak jej
+50:53
+změní jakékoli datum, které skutečně máte, do stejného formátu
+50:58
+protože jsou to bastardi, to je jediná věc, na kterou si myslím, že je to zdokumentováno
+51:05
+jejich kód, který má jít, nepoužívá rozložení yymmdd, takže vědí, že existuje
+51:11
+vědí o tom, ale ne, nebudou to používat, místo toho naformátujete speciální parametr rozložení v pondělí leden
+51:19
+2. 150405 mst 2006 stejným způsobem jako čas resp
+51:25
+datum by mělo být ve formátu, musí to být přesné datum a čas
+51:32
+a pak je tu tento řádek, toto datum se snáze zapamatuje, když je napsáno jako 0102 345 pm060700
+51:43
+dobře, ale viděli jste někdy takto napsané datum
+51:48
+Nikdy v životě jsem neviděl někoho formátovat datum takhle a zatracení američané dali měsíc
+51:55
+nejprve 0-102 2. ledna ne, to je 1. února
+52:01
+takže je to příliš dobré, jde to v um, ale jako své datum použiji 21.
+52:08
+listopadu 2014 v 10 minut po páté východoevropském čase, což je
+52:16
+poprvé, co jsem kdy mluvil, a tak to myslím
+52:22
+dobře, není to jedna dva tři čtyři pět šest sedm, jak to jde, ale je
+52:28
+možná se vám bude lépe pamatovat, když je napsáno dvacet jedna oh pět deset nula nula odpoledne
+52:34
+uh apostrof 14 plus nula dva nula nula um protože to je super
+52:40
+užitečné, naučil jsem se norské slovo
+52:45
+pokud nejste Nor, znamená to, že jste vítáni, protože jsem si myslel, že to bylo vhodnější než děkuji
+52:51
+ano, to jsou mé nápady na nejhorší programovací jazyk všech dob
+52:57
+a opravdu chci poděkovat go za ten poslední příspěvek, který mě opravdu polechtal um dělá někdo v
+53:03
+publikum, zbývá nám asi sedm minut, má někdo z publika oblíbenou funkci
+53:10
+z jejich jazyka, o kterém si myslí, že bychom ho měli převzít a který by rádi sdíleli
+53:17
+ne, to je v pořádku, pokud to někdy neuděláš oh ano ahoj
+53:23
+ty i přes dobře ano matlab a ozvěnou vše, co ne, as a
+53:29
+středník to matlab odráží vše, co nekončíte středníkem, jakýkoli řádek to odráží
+53:35
+cokoli jsi na tom řádku udělal, co já dělám, je, že jdu na poslední snímek jako
+53:42
+Dělám prezentaci a přidám k ní poznámky řečníka, pokud se mi to líbí
+53:47
+líbí se mi, kde je můj pohled
+53:52
+ah speaker note speaker note speaker notes
+53:58
+obrys zobrazit žádná stránka s poznámkami tam jdeme um
+54:04
+takže matlab ozvěnou jakýkoli řádek, který
+54:10
+nekončí středníkem ani řeckou otázkou
+54:16
+označte samozřejmě v bs, takže ano, to je skvělé, to se mi líbí
+54:21
+tak jo, dám to do budoucna ahoj ano, myslím, že možná ano
+54:27
+nadávky v kostele, ale máte co říct také nebo jinak
+54:34
+a také nebo jinak z vb
+54:41
+ani se v nich nevyznám
+54:46
+dobře
+54:52
+správně, takže by to nehodnotilo další věci, pokud ano, tak pokud jste to udělali ve vb
+55:00
+6 kdybyste udělali toto a toto a toto a toto, vyhodnotilo by to všechny dokonce
+55:05
+pokud první byl nepravdivý, ano, je to tak, a tak přidali, protože nemůžete přerušit existující
+55:11
+chování, protože lidé by se mohli spoléhat na vedlejší účinky třetí věci v pořadí a děje, i když se
+55:17
+první byl nepravdivý, a tak zavedli a také um říci to, co bylo rané
+55:23
+ukončení a operátor v příkazech if um jo, na to bych zapomněl
+55:36
+ano, dobře, jsou tam také, takže ano, ahoj
+55:46
+ano, ano, pokud by vás prohlášení měla vyžadovat
+55:52
+nebo promiňte, pokud by prohlášení nemělo vyžadovat, abyste to porušili
+55:58
+a funguje jako, že jsi zkroucené štěně
+56:09
+takže tak tady
+56:15
+hm, řekli bychom, že 42 vláken se rovná něčemu přerušení, jinak vlákna se rovná přerušení
+56:22
+um, pokud bla bla bla přejít na 42 přestávku, pokud
+56:28
+záporné záporné i a poté po smazání vláken a i bychom dali break
+56:34
+jo, děkuji, příště se mi to nevejde na snímky
+56:41
+přestávka na konci každého
+56:46
+rozsah ano, to je fantastické, někdo další má nějaké návrhy ano
+56:53
+ahoj na zadní straně může fungovat bez rovnátek
+57:00
+takže jako byste tomu říkali funkce, jo, ale je to napsáno jen jako proměnná
+57:05
+ach ano, viděl jsem, že to ruby ​​dělá také, že pokud nepředáváte parametry, tak to neuděláte
+57:13
+musím specifikovat závorky, jo, dám to tam
+57:20
+nepovinné závorky kdy
+57:25
+funkce nemá žádné parametry jo to je úžasné ahoj ano
+57:31
+Myslím, že jazyk je trochu příliš efektivní s méně než dvojnásobným mínusem
+57:41
+ty bys um, ale uh tak jo a přemýšlel jsem o tom
+57:47
+jakýsi um pre-inkoust a vysílání kurz nebo něco takového um a dělat to jako a
+57:54
+funkce s jako ref parametr um, ale pak jsem si myslel, že když dáme plus plus
+57:59
+a mínus mínus bychom mohli oklamat programátory z jazyků podobných c, aby to mysleli vážně
+58:12
+to je dobré ano ano máte to um ano pomlčka gt ah
+58:18
+tam je vlevo Chci říct, že je to vb, ale nemyslím si, že je to um
+58:24
+existoval programovací jazyk, myslím, že to byl jeden z těch, které jsem hodnotil ve stejnou dobu jako vb a uh a gupta sql
+58:30
+Windows, protože jsem se podíval na Power Builder, někdo někdy použil Power Builder, který je na hovno
+58:37
+informix nová éra, ale viděl jsem jazyk, který má větší než a větší než rovný a
+58:45
+menší než a menší než rovno jako klíčová slova a nepodporuje pouze matematické operátory pro ně
+58:52
+věci, protože zřejmě podle unicode tomu, co nazýváme
+58:58
+Znaky menší než a větší než nejsou ve skutečnosti znaky menší než a větší než, které jsou typem
+59:04
+v závorce se matematické znaky pro menší a větší než skrývají někde jinde ve znaku unicode
+59:10
+soubor jsme byli prodáni lež, takže jo
+59:16
+hm jasně ano ještě jeden ahoj
+59:23
+často musíte před funkce ve funkcích sestavení správně
+59:30
+ano, takže předpona všemu bs ano
+59:40
+oh, takže některé věci budou a některé věci ano, takže předpona
+59:46
+řekněme 69, protože tohle číslo rozesměje mého syna
+59:52
+je mu 10. ehm, děkuji youtube ehm standardní
+1:00:01
+knihovna uh členové s bs
+1:00:06
+fantastické, právě náš čas vypršel, děkuji vám všem, že jste přišli, děkuji za vás
+1:00:12
+za návštěvu konference obecně doufám, že jste se měli skvěle, prosím bezpečnou cestu domů a uh
+1:00:19
+dávejte na sebe pozor a doufám, že se sem vrátíme v květnu příštího roku
+1:00:24
+můžeme to všechno udělat znovu, na zdraví [Potlesk]
+
+1
